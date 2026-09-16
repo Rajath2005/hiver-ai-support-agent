@@ -9,8 +9,8 @@ A scoped AI support agent for **one brand (AmericanAir)** from the Kaggle
 3. **Decides auto-handle vs. escalate**, with an explicit stated safety/legal/operational reason.
 
 This repo deliberately does **not** try to cover multiple brands, fine-tune a
-70B model, or build a production-grade vector DB. See [`decision_log.md`](file:///d:/Downloads/hiver-support-agent/hiver-support-agent/decision_log.md) for
-why, and [`REPORT.md`](file:///d:/Downloads/hiver-support-agent/hiver-support-agent/REPORT.md) §"What's misleading about my headline number" for the
+70B model, or build a production-grade vector DB. See [`decision_log.md`](decision_log.md) for
+why, and [`REPORT.md`](REPORT.md) §"What's misleading about my headline number" for the
 limitations of the numbers below.
 
 ---
@@ -129,7 +129,7 @@ python scripts/compute_kappa.py
 | **LLM-Judge Mean Score (0–4 scale)** | **3.24 / 4.0** | n/a | n/a |
 | **Judge vs. Human Agreement ($\kappa$)** | **Overall $\kappa = 0.1975$** (Tone $\kappa = 0.4595$) | n/a | n/a |
 
-See [`REPORT.md`](file:///d:/Downloads/hiver-support-agent/hiver-support-agent/REPORT.md) for detailed problem framing, methodology, data leakage audit, and failure analysis.
+See [`REPORT.md`](REPORT.md) for detailed problem framing, methodology, data leakage audit, and failure analysis.
 
 ---
 
@@ -162,12 +162,12 @@ REPORT.md          the required report (<=6 pages)
 The original pipeline had 100% retrieval leakage (all 200 golden IDs were in
 the index). This is now fixed by construction:
 
-- `scripts/split_pools.py` creates disjoint pools with an assertion that fails
+- [`scripts/split_pools.py`](scripts/split_pools.py) creates disjoint pools with an assertion that fails
   at write time if any ID appears in both.
-- `scripts/check_no_leakage.py` re-verifies this at run time (wired into Makefile).
-- `golden_unlabeled_v2.csv` was sampled exclusively from `conversations_golden_pool.parquet`.
+- [`scripts/check_no_leakage.py`](scripts/check_no_leakage.py) re-verifies this at run time (wired into [`Makefile`](Makefile)).
+- [`golden/golden_unlabeled_v2.csv`](golden/golden_unlabeled_v2.csv) was sampled exclusively from [`data/processed/conversations_golden_pool.parquet`](data/processed/conversations_golden_pool.parquet).
 
-See `decision_log.md` entries #14–17 and `REPORT.md` §"What went wrong in the
+See [`decision_log.md`](decision_log.md) entries #14–17 and [`REPORT.md`](REPORT.md) §"What went wrong in the
 first pass and how it was fixed" for full details.
 
 

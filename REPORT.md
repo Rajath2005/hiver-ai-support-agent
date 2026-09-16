@@ -26,13 +26,13 @@ which would defeat the point of automation.
 **What we chose not to build:** multi-brand support, fine-tuning, a
 production vector DB, a trained escalation classifier, sentiment-model-based
 scoring (we use lexical heuristics instead — cheaper and auditable at our
-label budget). See `decision_log.md`.
+label budget). See [`decision_log.md`](decision_log.md).
 
 ---
 
 ## Results vs. baselines
 
-> **Evaluation Status:** Clean evaluation completed on `golden/golden_labeled_v2.csv` (200 rows) with zero data leakage (index/golden pools 100% disjoint). The first-pass inflated numbers (BLEU=0.998, BERTScore=1.000) are retained in the "misleading" section for comparison.
+> **Evaluation Status:** Clean evaluation completed on [`golden/golden_labeled_v2.csv`](golden/golden_labeled_v2.csv) (200 rows) with zero data leakage (index/golden pools 100% disjoint). The first-pass inflated numbers (BLEU=0.998, BERTScore=1.000) are retained in the "misleading" section for comparison.
 
 ![Evaluation Harness & Metrics](images/Evaluvation.png)
 
@@ -122,33 +122,33 @@ returned the identical historical answer — producing BLEU≈1.0 by retrieval
 identity, not generation quality. This was confirmed programmatically:
 `len(set(golden.customer_tweet_id) ∩ set(index.customer_tweet_id)) = 200/200`.
 
-**Fix:** `scripts/split_pools.py` performs a hard 90/10 split (4,500 index /
-500 golden) enforced with an assertion. `scripts/check_no_leakage.py` runs as
+**Fix:** [`scripts/split_pools.py`](scripts/split_pools.py) performs a hard 90/10 split (4,500 index /
+500 golden) enforced with an assertion. [`scripts/check_no_leakage.py`](scripts/check_no_leakage.py) runs as
 part of `make all` and exits with code 1 if any overlap is found. The new
 golden set has 0 overlap with the index (confirmed).
 
 **2. Auto-generated golden labels (no human in the loop)**
 
-`scripts/label_golden.py` ran a regex batch transform over all 200 rows.
+[`scripts/label_golden.py`](scripts/label_golden.py) ran a regex batch transform over all 200 rows.
 `reference_reply` was set equal to `support_text_clean` verbatim for 100%
 of rows (confirmed: `(golden.reference_reply == golden.support_text_clean).mean() = 1.0`).
 No human read a tweet pair.
 
-**Fix:** `scripts/interactive_label.py` is a blocking CLI that requires typed
-input per row. `golden/golden_labeled_v2.csv` contains only rows that were
+**Fix:** [`scripts/interactive_label.py`](scripts/interactive_label.py) is a blocking CLI that requires typed
+input per row. [`golden/golden_labeled_v2.csv`](golden/golden_labeled_v2.csv) contains only rows that were
 labeled interactively. The row count equals the number of rows actually labeled;
 it is stated explicitly (see "Golden set" section below).
 
 **3. Synthetic Cohen's κ=1.00**
 
-The original `scripts/llm_judge.py` computed the "human" score inside the same
+The original [`scripts/llm_judge.py`](scripts/llm_judge.py) computed the "human" score inside the same
 function as the LLM judge, with only 1–2 cosmetic tweaks. κ=1.00 is a
 mathematical identity when the two inputs are derived from the same formula.
 
-**Fix:** `scripts/llm_judge.py` now produces two physically separate files:
-`eval/judge_llm_scores.csv` (script output) and `eval/judge_human_blank.csv`
+**Fix:** [`scripts/llm_judge.py`](scripts/llm_judge.py) now produces two physically separate files:
+[`eval/judge_llm_scores.csv`](eval/judge_llm_scores.csv) (script output) and [`eval/judge_human_blank.csv`](eval/judge_human_blank.csv)
 (blank template). The human fills in the blank template independently, without
-looking at the LLM scores. `scripts/compute_kappa.py` then computes agreement.
+looking at the LLM scores. [`scripts/compute_kappa.py`](scripts/compute_kappa.py) then computes agreement.
 
 ### Remaining known limitations (post-fix)
 

@@ -1,0 +1,1201 @@
+customer_tweet_id,customer_text_clean,predicted_intent,generated_reply,escalate,escalate_reason,retrieved_context
+1102118,flight cxl cant get me to MIA and cant rent a car from FLL to get home agts at gate no computers and 1800 passed the buck..,TicketingAndRefunds,We always try to be consistent. As long as you follow the carry-on guidelines found here: then you should be good.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Never fly . Flight to MIA got delayed due to aircraft issues $ flight to ORD forcefully checked our bags in. You guys suck!
+  A: We always try to be consistent. As long as you follow the carry-on guidelines found here: then you should be good.
+- Q: Tried 2 check my bag 42 mins B4 flt. Rude counter-lady informed me I ""missed"" my flt. Had time to get rescheduled, cry over missed hours w/ my family, call every1, go thru security, cry some more, get food and walk past my original gate which had not even begun boarding yet.
+  A: Our system is unable to check your bag in once the cutoff time is met. We'll get you to your destination as soon as possible.
+- Q: my flight was just canceled from MIA to LGA. Can you help a brotha get home tonight?
+  A: Our Reservations team is available to help rebook you, or any of our airport agents. Please call 800-433-7300."
+1436095,"There is no sense of urgency or that customers time is of value, get a manager at that gate that can motivate the team",FlightDelaysAndDisruptions,"Good communication is very important, we agree. The team should be offering updates as they come available.",True,Customer explicitly requested a supervisor/human.,"- Q: It’s not the delay. It’s lack of updates from the gate staff
+  A: Good communication is very important, we agree. The team should be offering updates as they come available.
+- Q: still waiting. Someone needs to step in and help solve this problem. Too many people are in very difficult situation - asking customers to wait 5-6 days is not acceptable.
+  A: You're welcome to follow-up with us via DM or contact our Reservations team:
+- Q: secondly, maybe you can remind your staff that we are customers of your airline and they are in customer service industry. Very unhelpful
+  A: Our ticket counter and gate team work hard to keep families together. Can we look at seat options for a future flight? Please DM info."
+205520,How long is shortly,FlightDelaysAndDisruptions,"Thanks, we're going to forward this to our Central Baggage specialists for review and follow-up. They'll be in touch ASAP!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: You’re quite quick enough since 8 November
+  A: Thanks, we're going to forward this to our Central Baggage specialists for review and follow-up. They'll be in touch ASAP!
+- Q: When doesn't let someone with over 100K miles on a flight 9 minutes before takeoff and makes them wait standby all day...Never Again
+  A: The doors close 10 minutes prior to departure due to regulations. Check with our airport team on ways to be confirmed.
+- Q: Now 15 minutes.
+  A: Someone will be with you soon. Thanks for your patience with the wait."
+2469569,we're over 30 minutes late boarding AA 69 and gate agents haven't given any updates. What's the story?,FlightDelaysAndDisruptions,"Most of our flights are sold out, Scott. We were able to confirm you and Jamie on flight 2462 that departs at 2:15pm.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: They haven’t yet, bc everyone else is in the same boat. Now being told they found a new plane, but the original one has been sitting at the gate for 3 hours, even when it was supposed to be “taken out of service”. Further unnecessary delays.
+  A: Most of our flights are sold out, Scott. We were able to confirm you and Jamie on flight 2462 that departs at 2:15pm.
+- Q: It’s not the delay. It’s lack of updates from the gate staff
+  A: Good communication is very important, we agree. The team should be offering updates as they come available.
+- Q: We are checking in for our flight home and guess what?!? Still no bags and your crack team of agents have been able to provide no update. Great job AA, you’re killing this customer service game #Ijustwantmybag
+  A: We see that our Baggage Service team have your info and are providing updates as they come in. They'll be sure to reach out to you ASAP."
+454784,"Hey , I'm a big fan of this whole snack cart thing at the gate (CVG to DCA). Even more of a fan of the fact there are Slim Jims. After a 3-hour delay, I still feel #blessed.",ComplimentOrAppreciation,Our captain will do his best to make time up in the air for you. Thanks for hanging in there with us today.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: in Tampa had to return to terminal due to food carts #really #ontimetakeoffnot
+  A: Our captain will do his best to make time up in the air for you. Thanks for hanging in there with us today.
+- Q: Since I primarily fly , I miss having as an option to eat at DCA, since it's in the terminal.
+  A: We certainly appreciate your sacrifice and we're always here if you need anything. Have a great flight, Raina!
+- Q: What an amazing gesture from our NY to Pittsburgh flight is delayed &amp; they just handed out drinks and snacks. Thanks you!!!!
+  A: We want to make sure you don't get #hangry during the wait! Thanks for your patience, Bud. We're glad you're enjoying the snacks."
+1527976,why can’t I use my upgrades consistently when there are open business class consistently? Have the time told NO at the gate?,TicketingAndRefunds,"If you buy Business Class and then use miles to upgrade, that's fine, but you can't jump cabins.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Right, but bus class isn’t moved up to 1st? I still think it’s ridiculous I couldn’t use miles and pay for upgrade.
+  A: If you buy Business Class and then use miles to upgrade, that's fine, but you can't jump cabins.
+- Q: What's the point of status and being on the upgrade list if business class has empty seats and I'm in coach after take off? ☹️
+  A: We're sorry your upgrade was overlooked, Tracy. Our agents try to award upgrades prior to departure time.
+- Q: twice recently when coming off international flights I have not been on the upgrade waitlist at the gate - any idea why?
+  A: We can certainly take a look, Keith. Which flight did this happen on?"
+2685601,"This dude, gate agent, has gone from gate 10 to gate 21 still spouting his conservative political bullshit. Is this a new policy? I'm stuck here, waiting for a plane, listening to conspiracy theories too wacky to believe.",FlightDelaysAndDisruptions,We're sorry we weren't able to accommodate your original seat assignment. A refund will come to your original form of payment.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: seriously your gate agents???
+  A: We're sorry we weren't able to accommodate your original seat assignment. A refund will come to your original form of payment.
+- Q: be like, ""We're fixing the plane. Jk, It's fucked, get off. Jk stay put. Jk get off. Go to Gate B5. Jk B3. Ok the plane's fixed just keep waiting!!! Wtf?!?! Cocktail servers at the gate needs to be a thing, stat!
+  A: It sounds like you're having quite the travel day, Sara. What's your flight number and we'll get you an update on that flight.
+- Q: Can someone please get us off this plane? We are at C21 DFW with no gate agent to move jetbridge
+  A: Our team will have you deplaned shortly. We apologize for the delay."
+2894140,TIL terminals 1 and 2 at SFO are connected airside. And has ONE gate at the very end of terminal 1. Thanks for the long walk gate-manager-guy!,GeneralFlightFeedback,Our airport team can assist with rebooking or you can also DM your record locator and we'll take a look.,True,Customer explicitly requested a supervisor/human.,"- Q: And the new gate was a completely different terminal
+  A: Our airport team can assist with rebooking or you can also DM your record locator and we'll take a look.
+- Q: When we landed the pilot said it was due to outgoing traffic not gate availability? He just stated the gate is open but we are not moving.
+  A: We know you're ready to be off the plane, which we can do as soon as the path to the gate is clear.
+- Q: It is. The gate it was set up to was the gate for the following flight to the same destination.
+  A: We appreciate the feedback, and truly apologize for the confusion experienced on Wednesday."
+2567251,It’s now 1.05pm and I’m seeing NO sign of at my gate. Called the help Centre nothing concrete yet.,FlightDelaysAndDisruptions,It appears our crew has been delayed on an incoming flight. Thanks for your patience. We should have an update soon.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: It’s now 8:05 pm and not boarded. Highly doubt 8:25 pm departure. No announcements at gate in CLT. Really bad service!!
+  A: It appears our crew has been delayed on an incoming flight. Thanks for your patience. We should have an update soon.
+- Q: apparently now there is a gate for us but 15 min later we have not moved. Over 45 on the tarmac...and counting
+  A: We know waiting is frustrating, Benji. Thanks for being patient with us today. DM your record locator if you need a connection rebooked.
+- Q: We’re waiting on an gate at .
+  A: Thanks for your patience while we located another gate for you. Enjoy the rest of your afternoon!"
+2517344,how about being ashamed that making the gate on time these days is under 20% ...how about you pay for the dinner I just missed with my family. #worstairlineever,FlightDelaysAndDisruptions,We're truly sorry for the wait today. We're showing that your connecting flight departs in an hour.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: you should be ashamed. After finally making it to the gate, we have to wait 30 minutes in another line &amp; will miss the flight.
+  A: We're truly sorry for the wait today. We're showing that your connecting flight departs in an hour.
+- Q: it’s thanksGIVING and you jack up your flight prices 🤔 maybe u should be a lil more thankful &amp; a lil more giving
+  A: Fares are based on availability. With it being a popular travel time, the flights book up quick.
+- Q: The irony is, we were late to gate!!
+  A: Our apologies, we always aim to get you to your destination on time. Our airport team will provide all options to your destination."
+2300608,"So it’s an engine problem that takes 20 minutes to repair, I looked at my connection and I’m landing in terminal A and my connection is in C, what can I do?",FlightDelaysAndDisruptions,"We're so sorry for the shuffle, Edward. We didn't mean to cut your visit short.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Shit. just changed my ex-PHL gate to C terminal stymying my Amex PHL Centurion visit in terminal A
+  A: We're so sorry for the shuffle, Edward. We didn't mean to cut your visit short.
+- Q: So now missing connection in ORD
+  A: We're experiencing a maintenance delay. We see that you've been rebooked on the next flight. Our apologies for the late start today.
+- Q: Ouch !!! Your maint. issue in BOS put us @ LAX late, but just in time 2 catch our connector! You closed the gate in our faces 😔
+  A: We're very sorry we weren't able to hold the flight for you, Annie. We see our Reservations team has assisted you."
+180175,I'm landing at the remote terminal for 5,FlightDelaysAndDisruptions,"We take these comments seriously and we've received your DM, we'll follow up with you there shortly.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: 5. ...If you do, u can get off the plane.” I contacted customer support &amp; got a scripted response so here I am on Twitter. 👋🏼
+  A: We take these comments seriously and we've received your DM, we'll follow up with you there shortly.
+- Q: Hey I was supposed to land in Dallas at 5:05. I've still not left SFO and I've been sitting in the plane for 75 minutes. Fix this, please!
+  A: It looks like the previous flight was delayed due to air traffic congestion. We'll get you going just as soon as we can.
+- Q: Now also having to run to the other side of the terminal since you only have one rep at the desk.
+  A: We're sorry about the delay. We'll get you there just as fast as we can!"
+2189814,"Its kinda ridiculous that it took so long for me to buy a ticket and when I want to reschedule that flight that I had such a tough time buying, it would cost me $200 + air fare charges #thatscrap #nothankyou",TicketingAndRefunds,"That doesn't sound right, please follow-up in DM with additional details.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I’m being asked to pay over $200 to rebook my cancelled flight. After waiting for over 6 hrs at the airport. Ridiculous.
+  A: That doesn't sound right, please follow-up in DM with additional details.
+- Q: I would appreciate when I try to change my flight you don't try to get an extra $400 dollars.
+  A: We'd like more information. Please DM your record locator and let us know what's going on.
+- Q: I will be incredibly shocked the day I have one flight that you don’t delay. I want my money back.
+  A: We're unable to provide a refund for a flight you've taken. We're very sorry for any delays, Gregory."
+1610778,"most uncomfortable seats, least organized, nickle and dimes you too death. Now we boarded with no ""paperwork""? #unorganized 😑",SeatingAndBoarding,Please meet us in DM with your record locator so we can pass this along.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: one last thing, the good exit row seats were unavaible for booking yet deadheading crew somehow got those seats with legroom. ?
+  A: Please meet us in DM with your record locator so we can pass this along.
+- Q: Why are your planes so uncomfortable?!? I paid extra for an exit row aisle that is at least an inch more narrow than a regular seat. I've had nothing but poor experiences with you. #terrible
+  A: The width of seats can vary slightly from seat to seat. Main Cabin Extra seats always have 4-6 inches of extra legroom.
+- Q: They let me change seats and now I'm sitting next to a transferring pilot so I'm safe hands :)
+  A: Enjoy your trip and it's a pleasure to see you today!"
+1296420,And it's absolutely useless info.,FlightDelaysAndDisruptions,Planes are often being upgraded and changing but you can find out specific details through the link provided.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: How do you not know that information? Can it be obtained?
+  A: Planes are often being upgraded and changing but you can find out specific details through the link provided.
+- Q: That information has not been conveyed to anyone at the gate.
+  A: Our airport team is working hard to get a new crew member there. We appreciate your continued patience.
+- Q: Yes They have zero information and aren't helpful at all. And we're still waiting. Flight 1887 from BOS to PHL
+  A: We'll have them rolling soon. Thanks for hanging in there with us."
+724067,No. They don’t,DirectAssistanceOrDM,We've been working with our team and would like to provide you with an update Vilissa. Please meet us in DM so we can give you more info.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: They do. How you abandon a chair at the jet bridge is beyond me. I’m glad this happened at a city where I know folks.
+  A: We've been working with our team and would like to provide you with an update Vilissa. Please meet us in DM so we can give you more info.
+- Q: Hmmm they did on my last flight, thought it was just procedure!
+  A: It would only be procedure if you had payed for First Class. If 500-mile upgrades were deducted, those will be refunded back to you.
+- Q: They said you don't do them if it isn't maintanance related. Just pretty sucky. 👎🏼 #goingforgreat
+  A: We'd like to take a further look for you, Si. Please DM your record locator."
+1275158,"Sadly on AA65, a 9+hour flight on an ancient 767 with no outlets at the seats, no individual AC control or TV monitors. #shame",GeneralFlightFeedback,"You can stream tons of free entertainment on your device, and we're working to add power at every seat.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: The flight attendant just demonstrated the safety features himself like in the long time days.... because this long flight on has no TV, no power outlet....
+  A: You can stream tons of free entertainment on your device, and we're working to add power at every seat.
+- Q: Really ?! No TVs, on a 5-hour flight? Unbelievable. Never flying anything but again. #fail
+  A: Check out our in flight streaming option, which can be done in flight on many of our planes.
+- Q: flight AA869 has no air conditioning...we are dying #thanks
+  A: We're sorry for the warm plane, Chris. Once we'e airborne, the A/C will kick in and help cool the plane off."
+674578,I won't be. I had to wait after you decided to add a 7 hour layover to my flight now I've spent over an hour waiting to get off after landing. You're the worst airline out there.,FlightDelaysAndDisruptions,We always strive for the best service possible and we're making up quite a bit and counting. Our apologies again.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: Not an hour. I’m sorry this flight has been a shitshow. From start to finish.
+  A: We always strive for the best service possible and we're making up quite a bit and counting. Our apologies again.
+- Q: you stink. My original flight was scheduled to leave at 12:25pm. It’s now 5:55 pm. I’m very disappointed.
+  A: We're very sorry for the wait, Melvin. We'd be happy to get you an update, what's your flight number?
+- Q: I'm hoping I will but would you be able to notify my connecting flight that I'd be on the way?? I just don't want to get stuck
+  A: Please DM your record locator. We'll take a closer look for you."
+2947799,"has an absolutely ridiculous policy that does not allow ""regular"" passengers to fly standby without a fee when they arrive at the airport early. I'll be flying from now on. Very disappointing and completely illogical.",DirectAssistanceOrDM,We're sorry you weren't able to get on an earlier flight. Standby is an option on select flights when the inventory is available.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I think it’s poor service when has open seats on a flight, yet refuse to allow a passenger to get to their destination early because they aren’t standby. How insane! Makes me rethink my choice in flying.
+  A: We're sorry you weren't able to get on an earlier flight. Standby is an option on select flights when the inventory is available.
+- Q: What’s with the $75 fee to go standby on an earlier (not full) flight, ? Talk about making your customer fee nickeled and dimed.
+  A: Not all reservations qualify for free standby, which is why we reduce the fee from $200 down to $75 on the day of travel.
+- Q: can I fly standby on an earlier flight if I have a Basic Economy ticket?
+  A: The Basic Economy ticket doesn't allow for regular or confirmed standby, Sebastian."
+2773626,"Well, since you asked *Deep breath* -Don't charge $25 for the 1st bag -Stop overselling flights -Apologize to my knees, which are mashed into the seats due to less legroom -Use adult sized seats -Ask the guy next to me to get his elbow out of my ribs (not his fault) Start there",TicketingAndRefunds,"There is a charge on baggage when it is more than 50lbs., Alex. Click here for info.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks for charging me twice what a second checked bag costs for a 13lb weight overage. #airlinesareterrible
+  A: There is a charge on baggage when it is more than 50lbs., Alex. Click here for info.
+- Q: airlines thanks for loosing my suitcase,48 hours later and you still have no clue where my bag is Costing me thousands of $$$$
+  A: We don't like that your luggage didn't arrive with you. Please DM your bag file number, we'll be glad to give you an update on your bag.
+- Q: Your airline is the worse. My bag was under 18in the gate people are forcing me to pay $50 now they are saying flight closed
+  A: It sounds like a Basic Economy ticket may have been purchased. Take a look here:"
+359898,employees must get commission for every bag they can force you to check 🙄😒,BaggageIssue,"Ah, we're sorry to see that happened, Natasha. We count on our team to handle the bags with care.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: maybe have your baggage employees be a bit more careful, Yeah?
+  A: Ah, we're sorry to see that happened, Natasha. We count on our team to handle the bags with care.
+- Q: gate agent made me check the bag I carry on every week and lets people behind me bring theirs on 🤔🤔🤔
+  A: Our gate team works to monitor bin space and we're sorry that you were asked to check your carry-on bag, Jackie.
+- Q: your gate team shouldn't make customers check bags when there is open bin space at takeoff
+  A: We'd like to share this for internal review. Please DM your locator or flight number."
+2729555,Okay no bad feelings ! Our bag of merch delivered straight to the venue ❤️,ComplimentOrAppreciation,Please be sure to file a claim with our baggage team so we can get you reunited ASAP Colleen.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thank you!! We made it home, now just hoping they get the bags on the 1st flight! 🤞🏻
+  A: Please be sure to file a claim with our baggage team so we can get you reunited ASAP Colleen.
+- Q: Thank you! Bags arrived safe and sound
+  A: Excellent! Thanks for letting us know. Have a great rest of your weekend, Mike.
+- Q: On our way to Paris and flight canceled twice! Worst customer service ever!!! They won’t give us our bags. Missing flights
+  A: We do all possible to avoid cancellations, Ryan. We're so sorry your trip has been affected."
+1052654,I already have the baby’s ticket. I only need to assign seats!,SeatingAndBoarding,Seating can be assigned at the time you make a booking. If you have a record locator please DM it with a follow and we'll take a look!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Any way I can get my seats together after booking w ?
+  A: Seating can be assigned at the time you make a booking. If you have a record locator please DM it with a follow and we'll take a look!
+- Q: why’d you drop my confirmed seats? Not cool with 3 young kids and now no seats available without paying (not together).
+  A: Please DM us your record locator and we'll see if we can help.
+- Q: Why aren't seats assigned when you buy a ticket? Your agent tried to extort me to get assigned seats when I already paid for my tickets!
+  A: You're never required to pay for a seat. If you'd prefer not to, we assign what's available at the gate, on the day of departure."
+2152730,"My flight home has been cancelled and can’t be rebooked until Friday. You paying for two hotel nights and lost wages, ?",TicketingAndRefunds,We know your holiday plans are important and we fully expect to avoid cancellations.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: So am I gonna be able to avoid a cancellation fee so I can rebook my flight with another airline so I can make sure I can actually get home for Christmas?
+  A: We know your holiday plans are important and we fully expect to avoid cancellations.
+- Q: I’m being asked to pay over $200 to rebook my cancelled flight. After waiting for over 6 hrs at the airport. Ridiculous.
+  A: That doesn't sound right, please follow-up in DM with additional details.
+- Q: I'm done flying - y'all cancelled my flight and rebooked at a DIFFERENT AIRPORT w no travel or food vouchers
+  A: We do everything we can to avoid cancellations. Our airport team looks for all of the best options and will be glad to double check."
+1661630,gave away our seats along with several other passengers who paid for their tickets. The worst staff I have ever encountered,SeatingAndBoarding,"#AAmazing service is always our goal but seats may need to be changed, depending on operational needs. We appreciate you working with us.",True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: horrible flight attendant on flight 4244. Gave our seats to a different passenger without our permission.
+  A: #AAmazing service is always our goal but seats may need to be changed, depending on operational needs. We appreciate you working with us.
+- Q: So screwed up my reservation, lost the seat assignment upgrades I paid for, and smacked me in a middle seat to fly across country which I am definitely NOT PLEASED about. And my experience with them was so great coming here! Good will deleted!
+  A: Oh gosh, please DM your record locator and we'll check to see what happened with your seat.
+- Q: terrible customer service AA. U asked me to move over some seats to allow a dad sit with his child. I said no problem. U then mess up my ticket and move me to the back of the plane despite me paying another £128.90 for that ticket. So punish people for being decent
+  A: We see your DM, David and will reply to your comments there."
+795312,I have the economy. So 1 small item is 1 small luggage ?,BaggageIssue,"Yes, you can check a bag and those fees can be found here: A carry-on is allowed under the seat in front of you.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Can I have checked baggage on a Basic Economy fligh? Fees? And in a Economy fligh? Fees?
+  A: Yes, you can check a bag and those fees can be found here: A carry-on is allowed under the seat in front of you.
+- Q: I have a question regarding baggage
+  A: What can we answer for you?
+- Q: Your baggage rules are ~redundant as hell~ bc if all the carry-on suitcases go to the same place and I'm getting charged $50 doesn't that basically amount to whatever ticket price I would pay for whatever is above ""basic economy""
+  A: That's why we advise you of these rules, so you know in advance to check the bag, or bring one on board with you that fits under the seat."
+2453739,. 24hrs later worst. Wait’g 1hour+ w/intl passngrs don’t understand announce’ts -#EnglishOnly. No agua. #mean #badplan 2/2,FlightDelaysAndDisruptions,Our crew will try their very best to make up time while in the air. Our apologies for the late start today.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: We were supposed to leave LAX at 2:25 PM what time is it now 😡😤 Made us wait for almost an hour without telling us why. ANNOYED
+  A: Our crew will try their very best to make up time while in the air. Our apologies for the late start today.
+- Q: When you’re just trying to get to the 🏝 but is always sooo delayed. 😭😭😭 #whyiflyalaska
+  A: Sorry for the delay, Ali. We're working hard on getting you to your destination.
+- Q: what’s up with the delay from ogg to dfw tonight?
+  A: We've responded to your DM, David. Please take a look when you get a moment."
+223208,Day late and a dollar short on that one. This was one of those travel experiences that reminds me why I fly .,GeneralFlightFeedback,"What's going on, Katie? We love sharing the skies with you and want to help if we can.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Literally 30 minutes into my travel experience and remembering why I haven't flown in years. So bad.
+  A: What's going on, Katie? We love sharing the skies with you and want to help if we can.
+- Q: This has been the worst travel experience 😭 canceled my flight yesterday &amp; delayed last night. I’ve lost 3 days of my trip.
+  A: Smooth travel is always our goal and we'd like some more info. Please follow and DM your record locator with additional details.
+- Q: Having to fly tomorrow reminds me why I live so much.
+  A: We're here if you need any booking assistance. You can also contact our Reservations team at 800-433-7300."
+2293755,American Airlines don't care. You will get a generic response. &amp; I had HORRIBLE experience this morning. They don't care.,TicketingAndRefunds,"Aww, thanks so much, James! We're always happy to help when we can.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thank you american airlines for helping me so quick and taking care of customer, you guys are the best #happy#bestservice
+  A: Aww, thanks so much, James! We're always happy to help when we can.
+- Q: They happen way more on American than other Airlines I fly.
+  A: We do operate the most flights out of any other airline, but our offer still stands if you need assistance.
+- Q: Good morning, I'm still waiting for an answer from American Airlines for my belongings. I feel disconsolate.
+  A: Did you file a claim with our Baggage team?"
+1332801,Take me someplace good today!,FlightDelaysAndDisruptions,Good morning! We can't wait to get you in the air and on your way.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Let’s fly this morning!
+  A: Good morning! We can't wait to get you in the air and on your way.
+- Q: Hey it’s now an hour!!! What are you doing back there!!
+  A: Our team's working as quickly as possible to reunite you with your bags. We're so sorry for the wait.
+- Q: Great day in Chicago headed home on
+  A: Welcome aboard! Have a great flight."
+727007,really rough experience today with flight #2309 wondering if you could help?,FlightDelaysAndDisruptions,We're sorry to hear that Carolina. We always want you to have a great experience with us.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Unfortunately, I hadn't a good flight w yesterday, delayed, mechanical issues and without entertainment a long and bored flight
+  A: We're sorry to hear that Carolina. We always want you to have a great experience with us.
+- Q: Please send me an email address I can contact regarding a recent flight. So many things went wrong
+  A: We're sorry your trip didn't go as you planned. You can give us the info here in DM and we'll submit it for you.
+- Q: Flight #3771 ...I was disappointed and slight embrassed unnecessarily n this was after n semi unpleasant exchange w gate agent
+  A: We expect our team to be kind and professional. If you need help with anything we're here."
+2653770,we got this,FlightDelaysAndDisruptions,It's music to our ears that our PHL crew took good care of you despite the challenge this afternoon. #AATeam,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: We got out! Ty! Tip the cap to the philly aa crew!
+  A: It's music to our ears that our PHL crew took good care of you despite the challenge this afternoon. #AATeam
+- Q: And we sit...
+  A: We're working hard to get you in the air as fast as we can. Thanks for hanging in there with us this evening.
+- Q: I sent you guys some messages.
+  A: We're taking a look now, Joey, and will respond to you there shortly."
+2068200,Got stuck flying . #badcustomerservice. Miss my airline. #iFlyAlaska,CustomerServiceComplaint,We're sorry for the late arrival of her bags. Our team will get her bags to her as fast as they can.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Hey btw on top of that I just got a message saying this!! Wtf worse airline EVER you need to fix this like right now
+  A: We're sorry for the late arrival of her bags. Our team will get her bags to her as fast as they can.
+- Q: Bad Flight diverted and later cancelled. It's like they've never done this before?!!#poorcustomerservice
+  A: That's not what we like to hear. Give us a call at 800-433-7300 if you need help getting rebooked.
+- Q: Lucky to say, I never had a single bad experience with . #travel #Airplane
+  A: We love having this record with you! We work hard to provide a great experience every time."
+663023,You have to love Our flight was supposed to leave an hour ago. We board on time and sit on runway with no information ever since.,GeneralFlightFeedback,"We're sorry for the wait. What's your flight number, we'll check on an update?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: 6hrs at the airport, boarded 2 planes only to come back down, and still don’t know if we’re flying! Thx !
+  A: We're sorry for the wait. What's your flight number, we'll check on an update?
+- Q: And we were told 8:30 departure for the new flight.
+  A: If you haven't already, we recommend you sign up for notifications here:
+- Q: The plane was gone 10 minutes before departure
+  A: We're sorry the first flight was missed but thrilled to see that you made it onto the next one. We'll have you to your destination shortly."
+2325217,"That terrible day when you have to fly with . Love and miss , best #airline in the business. The quality of service is extremely notable from the counter to the flight.",TicketingAndRefunds,"We sure don't like hearing we've disappointed you, Matt. It was our pleasure to have you fly with us today.",True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: the absolute *worst* airline ever. Will happily never fly with them again!
+  A: We sure don't like hearing we've disappointed you, Matt. It was our pleasure to have you fly with us today.
+- Q: is quite seriously the worst airline I've ever flown. Poor service, 2 hour delay, checking a bag I ALWAYS carry on..never again
+  A: We'd like to pass along your feedback Maggie. What was your flight number?
+- Q: is literally the shittiest airline I have ever flown with. Can't wait to never fly with them again...
+  A: That's not what we like to hear, Josh. We hope you'll reconsider and give us another chance to impress you."
+2572590,Didn’t the same happening to you earlier in the week?,FlightDelaysAndDisruptions,We're always reevaluating our routes and schedules. Your feedback is definitely appreciated.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: It never happened for last 3 years that I am flying each Monday.
+  A: We're always reevaluating our routes and schedules. Your feedback is definitely appreciated.
+- Q: No. All the seats appeared blocked for me since I booked my flight
+  A: We see you were working with our phone team, and declined a Preferred or MCE seat. Our gate team will assign a free one at the airport.
+- Q: That’s nice, but it feels like a pretty common occurrence for the past month.
+  A: It's our goal to always depart on-time. Sometimes due to unforeseen circumstances we may have to leave a little late."
+699772,Good morning and happy Thanksgiving! We are looking to purchase tickets and have a question regarding seat selection. May I PM you please?,SeatingAndBoarding,The plane we're using for this flight now has a different configuration and no longer has the type of seating you had.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: the correct seats were confirmed via email again in August. Now they are sold right before we leave for our trip!😢
+  A: The plane we're using for this flight now has a different configuration and no longer has the type of seating you had.
+- Q: Don’t bother paying to choose seats on - they can rebook you and split up your party and they don’t even care or refund the fee
+  A: We try hard to honor seat assignments, but sometimes we may have to make changes. If you don't get the same type of seat it'll be refunded.
+- Q: Feels good to know that there were seats in first class I was willing to purchase but not allowed to. Thanks
+  A: We're sorry you weren't able to be upgraded. We've got our fingers crossed it works out next time."
+2739867,Very unfortunate lost and delayed bag incident from - love you guys usually but this has been quite disrupting.,BaggageIssue,"We're working hard to get you reunited as soon as possible, Steve.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Still laughing at the absurdity of this tbh. No idea when the bag will show up yet though. American's website for lost bags is about as reliable as package tracking.
+  A: We're working hard to get you reunited as soon as possible, Steve.
+- Q: 2nd time in a row that bags that should have been tagged priority in CLT have not arrived. Not happy.
+  A: We're sorry to hear that, Elizabeth. We always want to get your bags out to you as quickly as possible.
+- Q: Never again. Could have put both bags into one and still qualify as carry on.
+  A: Group 9 boarding is a Basic Economy fare, allowing 1 carry-on to go under your seat. Please see more details at:"
+210679,Got favorite #PAX award on flight 1393 DFW&gt;LAS 4 giving super crew sml token of appreciation: cards!,ComplimentOrAppreciation,We're glad to hear our #AATeam on AA4642 took great care of you. We've requested some info in DMs if you could take a peek.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I want to thank the crew of flight AA 4642 of for being awesome and nothing like that insane crew member from flight AA 3677.🌠🌠
+  A: We're glad to hear our #AATeam on AA4642 took great care of you. We've requested some info in DMs if you could take a peek.
+- Q: Love this tribute to a Medal of Honor winner on our flight!
+  A: We love to honor our Military Heroes and their families, Britni. We hope you enjoy your flight!
+- Q: thanks for a great flight. The entire crew was excellent from boarding to arrival in Miami. #Fl2193 ORD-MIA. #Loyal2AA #serviceMatters #25A #rewardgoodemployees
+  A: We're so glad to hear it! We'd love to pass along the kind words. Please DM your record locator. #AATeam"
+867715,I was en route from another flight and it was assigned before I got to gate.,GeneralFlightFeedback,"We appreciate the feedback, and truly apologize for the confusion experienced on Wednesday.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: It is. The gate it was set up to was the gate for the following flight to the same destination.
+  A: We appreciate the feedback, and truly apologize for the confusion experienced on Wednesday.
+- Q: Not to mention plane was still at the gate 10 min after closing the doors for deicing. Ur gate staff sux.
+  A: Once the door is shut, we aren't able to let anyone on. We understand this can be upsetting.
+- Q: gate it was at LITERALLY ONE HOUR LATER when my flight landed and the car seat wasn't at my arrival landing
+  A: We want to get you reunited as quickly as we can, please follow and DM additional details."
+2194813,"Yes i did ask why I️ was being charge for a problem that wasn’t my fault and I️ got no response, great care I️ see that you guys provide for your customers, especially when I️ fly frequently.",TicketingAndRefunds,We're proud of our excellent customer service and are here to help. Please DM your record locator and details of what you're needing.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I feel sorry for people that have to fly on . Customer service is terrible. This is why I choose any time I can.
+  A: We're proud of our excellent customer service and are here to help. Please DM your record locator and details of what you're needing.
+- Q: Dear after today I will no longer be flying with you. I have experience the worst experience of customer services ever!!
+  A: Our team loves providing great service and would love to continue this relationship. Please follow-up in DM with additional details.
+- Q: I never made A complaint but it would be nice if your flight attendants would make sure to treat everybody with respect to
+  A: Our team is expected to be courteous and respectful at all times. We're sorry if this wasn't the case today."
+2743496,"never mind that I'm supposed to be at my destination for work. Really poor service, reminds me why I never fly with them. #shitservice",FlightDelaysAndDisruptions,"What's going on, Tyler?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Just experienced the worst service I've ever encountered on ... Was a loyal customer but certainly will not be flying with them anymore
+  A: What's going on, Tyler?
+- Q: I feel sorry for people that have to fly on . Customer service is terrible. This is why I choose any time I can.
+  A: We're proud of our excellent customer service and are here to help. Please DM your record locator and details of what you're needing.
+- Q: 😡😡😡 I really feel like you never deserve my business again ✌🏽 it cost so much money to fly for terrible service.
+  A: We have another flight departing at 6:15p this evening if you'd like us to change it."
+2741125,"AA730. Yet again exceptionally poor value. When you get it right you're good. but when you get it wrong your (very high paying) customers suffer the consequences. Dont have the problems on domestic, been riding 730 / 733 for years and its rarely a good flight.",GeneralFlightFeedback,"You should be on your way in just a few minutes, Bill. Thanks so much for your patience.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: -- things are a lot easier if you communicate with your customers. What's the current status of flight AA822?
+  A: You should be on your way in just a few minutes, Bill. Thanks so much for your patience.
+- Q: Why is AA always so disappointing? For once I’d like to be impressed with my hometown airline
+  A: We're expecting be up in the air in about 30 minutes! Thanks so much for your patience.
+- Q: Flight atndt Kimberly (AA 3355) was absolutely stellar. Concerned, attentive, helpful, genuine. Made a delay less terrible.
+  A: Kimberly is marvelous, Alyce, and we're honored to have her on our team. We're so glad she took such great care of you! #AATeam"
+391844,"Your rep, Jacki, here at ORD helped me get home tonight. Thanks for the response!",ComplimentOrAppreciation,Our pleasure! We do our best to impress and we're always here when you need us.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thank you for helping me today! Very appreciative! Keep up the good work
+  A: Our pleasure! We do our best to impress and we're always here when you need us.
+- Q: Thank you to Billy from from ORD to SAT! You MADE my day with some simple eye contact, a smile, and some kindness! 😍 #realMVP
+  A: It's the little things that always count! Billy is an #AAllstar. Please follow and DM your record locator and we'll forward the praises.
+- Q: Hey - thanks for the upgrade! #ord #man #aa
+  A: We're excited to have you ride up front with us, Ben. Surprise upgrades are always fun!"
+717266,- any plans to add a chat feature to your customer service options? Real time connectivity when flying would be a plus! #thanks,TicketingAndRefunds,"Please follow and DM your record locator, Maria. We'll take a look for you.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: do you have online chat. I’m out of the country and trying to get an earlier flight
+  A: Please follow and DM your record locator, Maria. We'll take a look for you.
+- Q: -- things are a lot easier if you communicate with your customers. What's the current status of flight AA822?
+  A: You should be on your way in just a few minutes, Bill. Thanks so much for your patience.
+- Q: is amazing... free WiFi on flights if you’re a customer... I had never known. ❤️❤️
+  A: Hello, Noelle! We love that we're connected at 35k feet in the air. We look forward to many more flights together."
+2305360,Thanks! I checked in online. It didn't have an option to select how many bags I wanted to check in. Do I just go to the counter and request a bag check in?,BaggageIssue,We'll share this with our team for internal review. We have a great link you can use to check on your bag.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: You can tell the gate agent at C21 at DFW she needs to learn how to count bags
+  A: We'll share this with our team for internal review. We have a great link you can use to check on your bag.
+- Q: How do I get my checked bag fee returned?
+  A: Hi there! The checked bag charge is nonrefundable.
+- Q: Extremely unhappy that my checked bag on 5156 never appeared in Charlotte. App, web site, staff all have different answers...
+  A: We're showing your bag was unloaded in Charlotte. If you didn't receive it, then please speak with our airport Baggage team."
+903873,Apparently my previous reply was stuck as sending for the last month. I apologize. New DM sent. Thanks!,ComplimentOrAppreciation,"We see your DM, and will reply back soon.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Sent a DM - thank you for getting back to me
+  A: We see your DM, and will reply back soon.
+- Q: Sent dm thank you
+  A: We see your DM, and will respond to you there.
+- Q: Sent DM
+  A: We've responded to your DM, Eloy."
+2215453,AWESOMESAUSE! Thanks for the reply !,ComplimentOrAppreciation,"We love being here for you, Marquez. Tweet or DM us anytime!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks for the always quick response!
+  A: We love being here for you, Marquez. Tweet or DM us anytime!
+- Q: Thank you! I appreciate a reply!
+  A: You're welcome!
+- Q: Ah cool, thanks!
+  A: You're welcome happy Monday!"
+932389,"The crew on flight 4749 CLE➡️PHL was amazing, and quite the lookers, too. Thanks !",DirectAssistanceOrDM,We're glad to hear our #AATeam on AA4642 took great care of you. We've requested some info in DMs if you could take a peek.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I want to thank the crew of flight AA 4642 of for being awesome and nothing like that insane crew member from flight AA 3677.🌠🌠
+  A: We're glad to hear our #AATeam on AA4642 took great care of you. We've requested some info in DMs if you could take a peek.
+- Q: Great crew on the flight. kudos...
+  A: You deserve nothing but the best. We'll be sure to pass along the kudos! #AATeam
+- Q: AA1566 this a.m. Flight crew was amazing!
+  A: Woohoo! We love to hear of a job well done."
+2814098,Thanks,ComplimentOrAppreciation,You bet.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thanks
+  A: You bet.
+- Q: Thanks
+  A: You're more than welcome and have a great afternoon.
+- Q: Thanks!
+  A: You bet."
+611740,captain sun chu and first officer were awesome yesterday on flight 254 ogg lax. Thanks for being so informative and thanks to the first officer for serving,ComplimentOrAppreciation,You deserve nothing but the best. We'll be sure to pass along the kudos! #AATeam,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Great crew on the flight. kudos...
+  A: You deserve nothing but the best. We'll be sure to pass along the kudos! #AATeam
+- Q: thanks for a great flight. The entire crew was excellent from boarding to arrival in Miami. #Fl2193 ORD-MIA. #Loyal2AA #serviceMatters #25A #rewardgoodemployees
+  A: We're so glad to hear it! We'd love to pass along the kind words. Please DM your record locator. #AATeam
+- Q: just landed in Miami and kudos to the crew for a great flight from LAX to MIA AA1024. Great service,attitude and smiles ...25C
+  A: Our #AATeam loves taking excellent care of you! Hope to see you again soon."
+2916795,It looks like my flying dreams are coming true sooner than I thought 😃 this is the bag I would take with me with just my iPad and my file folder thingy (That's what I call my pocket organizer 😂) . Any specific rules on the size of the bag? Thanks 😃,BaggageIssue,You can only have 1 item. Did you have your work bag and a carry-on?,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Literally the same size as my work bag. Any chance you guys get to make more money at the customers expense.
+  A: You can only have 1 item. Did you have your work bag and a carry-on?
+- Q: It is really disappointing when I’m made to check my bag when there is still space in the overhead. 😤😤😤
+  A: Once we see that our flight is going to be full we'll begin gate checking bags. Our apologies if there was room available on board, Erin.
+- Q: shrunk carryon size, didnt notify when purchasing tickets. Charged $150 for rolling briefcase, even though it fits under seat!
+  A: That doesn't sound quite right, please meet us in DM and share the record locator with more details."
+1071579,thanks for making up for the delays!! I’ll definitely be using those advantage miles!,FlightDelaysAndDisruptions,We're so sorry for the extra travel time. Please DM us your record locator and we'll see if we can help.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks for delaying my flight home, I hope it doesn’t coast me my job I just started!
+  A: We're so sorry for the extra travel time. Please DM us your record locator and we'll see if we can help.
+- Q: Flight to Atlanta slightly delayed but thanks doing everything to get us there as quickly as possible &amp; making the flight extra comfortable! Top notch service, pilot and flight crew!
+  A: Thank you for the kind words, Jenn. Please DM your record locator so we can forward the praises.
+- Q: Thank you for the call to remind me about my frequent flyer miles upcoming expiration. Booked some flights with them :)
+  A: You bet! We can't wait to see you for your next trip."
+2283864,Just arrived &amp; had to say THANKS to . is stunning on cover of,ComplimentOrAppreciation,One of our most favorite times of the day! Thanks for flying with us today.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thank you for the great flight and the great view before I landed in
+  A: One of our most favorite times of the day! Thanks for flying with us today.
+- Q: thank you sooo much for having as your cover star this month on American Way. My eyes had two very happy flights this week!! 😍😍
+  A: We're so glAAd you liked it, Stephanie.
+- Q: Thanks for the San Fransisco flyover on departure this evening, ! Gorgeous!
+  A: What a gorgeous #AAView! #WishWeWereThere"
+1570524,Big thanks for stranding me in Dallas so I missed my uncle's funeral! #AAsucks #theydontcare #weneedcompetition,ComplimentOrAppreciation,We're sorry to hear you're traveling under these circumstances. Please work with our airport team for rebooking options.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: bout to miss a family funeral because of this overbooking nonsense, thank u #AA for making it obvious y’all don’t care about us
+  A: We're sorry to hear you're traveling under these circumstances. Please work with our airport team for rebooking options.
+- Q: every time my sis in law comes home u cancel a flight. She needs to be here tomorrow for a funeral #getkellyhome
+  A: We want Kelly to reach her destination. Please have her reach out to us via DM so we can look at possible options.
+- Q: I may miss my grandmothers funeral because of this. Thanks for nothing , this is a nightmare
+  A: We're sorry for your loss. Let us know if you need help getting rebooked."
+477282,thanks so much for helping me lose 6 hours with my only grandchild!!!!,ComplimentOrAppreciation,We're happy to help!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thank you for your help! My baby brother is coming home!!
+  A: We're happy to help!
+- Q: Thank you so much to for your kindness in helping me with a family emergency this morning. Much appreciated
+  A: Thanks for the shout out, Sylvia. Please follow and DM your record locator and we'll forward your compliment to our #AATeam.
+- Q: thank you so much for helping me today to adjust my parents flight. I really appreciate you guys.
+  A: That's great news and we're happy our #AATeam was able to help as well! We look forward to having them on board."
+290013,Thanks we wold really appreciate it if that could be done. . We love America air lines,FlightDelaysAndDisruptions,"You should be on your way at 8:25p, and we really appreciate your patience.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks for the reply now we are on our third plane and waiting 7 hours to leave. This is just awful on #AmericanAirlines
+  A: You should be on your way at 8:25p, and we really appreciate your patience.
+- Q: Thank you american airlines for helping me so quick and taking care of customer, you guys are the best #happy#bestservice
+  A: Aww, thanks so much, James! We're always happy to help when we can.
+- Q: Thanks for the great customer service waited for an hour and half at the check in desk only to miss my flight#AmericanAirlines
+  A: We're sorry you didn't make your flight, Jake. Our team at the airport will help get you rebooked."
+2920880,"2 trips on this wk, 0 on-time arrivals. Nice job. Thanks.",FlightDelaysAndDisruptions,"It's always a pleasure to have you on board with us, Gary. Have a great weekend.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks for a great flight and on time arrival! #travel
+  A: It's always a pleasure to have you on board with us, Gary. Have a great weekend.
+- Q: Nice. I only have 4 flights scheduled those dates 🤦🏻‍♂️
+  A: We know your holiday travel plans are important. We're working hard and don't expect any cancellations.
+- Q: WTH 15 minuets for TSA PRECHECK in terminal B. hope your employee sent me to best PRECHECK- I thought there were 2 ?
+  A: It's a busy afternoon, but they're working hard to get everyone through security as quickly as possible. Have a great flight!"
+34804,"Thanks - this picture doesn’t even do it justice! And our purser on this flight is the best - efficient, sweet and friendly!",ComplimentOrAppreciation,Please be sure to file a claim with our baggage team so we can get you reunited ASAP Colleen.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thank you!! We made it home, now just hoping they get the bags on the 1st flight! 🤞🏻
+  A: Please be sure to file a claim with our baggage team so we can get you reunited ASAP Colleen.
+- Q: nailed it! Thank you for making our holiday travel so pleasant! Best customer service &amp; flight crew.
+  A: Woohoo! That's what we love to hear. Thanks for joining us.
+- Q: My favorite photo of American Airlines
+  A: You've been busy! We love your drawings and that photo is one of our favorites too."
+2283554,Technically St Kitts is overseas. Big ocean. Lots of water. ... And to think I was nice enough to give y’all all my data by signing up for membership and getting a credit card. And buying this vacation package through AA. It’s ok. I understand.,GeneralFlightFeedback,"We're very sorry for the wait, Bob. Once you file a claim, we'll update you here:",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: nothing like traveling half way around the world for the last 24 hours and not having your bag arrive but your travel companion does. Told it’s coming in 2 hours later but now not sure. Love getting a lecture from AA representative about international travel
+  A: We're very sorry for the wait, Bob. Once you file a claim, we'll update you here:
+- Q: curious, why are you flying flights to #STT but are not flying flights OFF the island? Are you flying empty planes back?
+  A: We have a very limited schedule in and out of STT. We're sorry for your frustration.
+- Q: So we had to get a room at the airport for convenience and because we had had it! Also food vouchers for in airport only? Seriously?
+  A: We always want your experience to be a good one and we're so sorry you've had this happen."
+1130779,what the hell are you doing about the 100s of ppl grounded out of flights from Grand Rapids MI? #FigureItOut #NoExcuses,CustomerServiceComplaint,"That's not a pattern we'd care to keep, Alex. Our goal is to always get you to your destination on time.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I have spent more hours grounded because of delays than actually flying in the last 24 months with #AAdelays
+  A: That's not a pattern we'd care to keep, Alex. Our goal is to always get you to your destination on time.
+- Q: Bad Flight diverted and later cancelled. It's like they've never done this before?!!#poorcustomerservice
+  A: That's not what we like to hear. Give us a call at 800-433-7300 if you need help getting rebooked.
+- Q: Never fly #americanairlines! This is the 4th flight in less than 2wks that I’ve been on that they’ve #overbooked and have to kick people off
+  A: Our apologies for the experience. Please work with our airport team for best options."
+2388150,because of you I am sleep deprived. I am using from now on. #GimmeNoMoreExcuses,FlightDelaysAndDisruptions,"We're sorry for the extra time on the bus but we see you're on the plane now. Have a great flight and day, Keith.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: #StillWaiting #20MinsOnThisBus #Ridiculous
+  A: We're sorry for the extra time on the bus but we see you're on the plane now. Have a great flight and day, Keith.
+- Q: It's a shame can't control #turbulence! #byebyesleep 😔 😴
+  A: We know you needed a little nap and we're sorry for the little bumps. Have a great weekend.
+- Q: Btw, big fail getting me up at 3am today for a flight that eventually never happened #PopsSaidBePunctual
+  A: We're so sorry to hear this and please let us know if you need to be rebooked. We're here to help."
+2529387,How do I claim my fare back?,TicketingAndRefunds,"We'll be glad to take a look at it, David. DM your record locator or ticket number.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I booked a refundable flight, but now the refunds dept isn't refunding me. Can you help?
+  A: We'll be glad to take a look at it, David. DM your record locator or ticket number.
+- Q: - Just paid $275 for a flight change for flight departure &amp; now being asked to pay $600 to maintain my original return #help
+  A: Please DM your record locator and what happened. We'll take a look at it for you.
+- Q: How do I pay for flights using a cancellation credit I have?
+  A: Do you have the ticket number you cancelled? If not please provide the date of travel, and we'll take a look."
+1113709,Three people not cutting it. Many people going to miss flights,TicketingAndRefunds,We can help as well! Please follow and DM your record locator or contact Reservations at 800-433-7300 for rebooking options.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: . plane broke down before taking off. Two employees to reschedule hundreds of people. Great company
+  A: We can help as well! Please follow and DM your record locator or contact Reservations at 800-433-7300 for rebooking options.
+- Q: . do you realized how many people you caused to miss flights today because you suck? Hope you’re prepared to compensate.
+  A: We never want you left behind and would be happy to take a closer look at your reservation. Please DM your 6-letter booking ID and details.
+- Q: there’s literally no excuse to give another flight’s plane away....
+  A: We're unable to offer a refund if you're still taking the flight. Once you arrive to your destination, send a DM our way for further review."
+1087947,Yet another example why you are the of airlines 💩💩💩,DirectAssistanceOrDM,"No, you're the best Eric! We're glad you're with us today. Enjoy that yummy cool beverage.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: This is why is the best airline.
+  A: No, you're the best Eric! We're glad you're with us today. Enjoy that yummy cool beverage.
+- Q: Not very happy with Airlines eating my time.
+  A: We appreciate your patience with any added travel time we're causing, Pat.
+- Q: your airline sucks 👎🏼
+  A: That's not the impression we want you to have and we hope you give us another chance to impress you on board."
+1076531,Yeah awesome towel! Only for flights or can I get one somewhere?,FlightDelaysAndDisruptions,"Yes, if you'd like for us to consider liability, it needs to be inspected in person at the airport within 24 hrs:",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Where can i do that? At the airport?
+  A: Yes, if you'd like for us to consider liability, it needs to be inspected in person at the airport within 24 hrs:
+- Q: I couldn’t pick a sweat for my flight for the past two days. You wont assign me one till 30 mintues before a flight...👎
+  A: We'll take a look at your booking. Please DM your record locator and we'll look at seating options.
+- Q: Is this available at any other airports? I grabbed my food and even had enough time to run to the bathroom before catching my connection 😱
+  A: We have them at many of our airports. Please check their website for specific cities."
+2970862,Hey should I be worried about my trip to New York in a few weeks?,FlightDelaysAndDisruptions,We are working diligently to address the issue and expect to avoid cancellations this holiday season,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I hope I don't have to worry about my flight in December
+  A: We are working diligently to address the issue and expect to avoid cancellations this holiday season
+- Q: By the way , this is Chicago, so saying that the cold weather is causing your plane to break is not reassuring.
+  A: We see your tweets and we'll review and respond back shortly in DMs.
+- Q: Why are you even bothering loading us onto planes from LaGuardia to Boston if there’s a 2 hour backup and hellish weather?
+  A: There are a lot of moving parts that goes into making these decisions. We'll have you #wheelsup just as soon as we get the okay."
+1478930,unbelievable...u ban customers for complaints...WOW,TicketingAndRefunds,Your comment concerns us. Please DM your record locator if you need help.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I wrote my first complaint ever today. It was about how much customer service sucks at
+  A: Your comment concerns us. Please DM your record locator if you need help.
+- Q: But what can you do about the terrible customer service.Stuff happens.I get that.But your agents treating customers this way is unacceptable
+  A: Customer service is a priority to us, Erika. Once your flight is complete, please follow and DM your overall flight experience to us.
+- Q: what happened??? Customers must NOT be your priority because you treated us with complete disrespect SAD on every level
+  A: We see you've pushed back from the gate now and we'll have you in the air very soon. Our apologies any for any inconvenience."
+2605058,"hi, i have a question about your baggage policy and sent it to you through DM",BaggageIssue,What can we answer for you?,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I have a question regarding baggage
+  A: What can we answer for you?
+- Q: your baggage policy is THE WORST in the industry. WORST
+  A: What's going on, Steve? How can we help?
+- Q: worst baggage experience I've ever had. Brand new suitcase and my bag is banged up, crushed and damaged. Please check your DMs.
+  A: We see your tweets and we'll review and respond back in DMs shortly."
+2233579,"8 more flights before #PlatinumPro status. That’s 90 flights this year on alone, kids. Bring on those First Class upgrades! #frequentflyer",GeneralFlightFeedback,"BTW, 21K is also now available which is the seat next to the aisle 21J which you already have. Let us know which would work best for you.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: PLUS, we had Executive platinum upgrades put in to hopefully move to first class! Now we can't even sit together on a 15 hour flight!☹
+  A: BTW, 21K is also now available which is the seat next to the aisle 21J which you already have. Let us know which would work best for you.
+- Q: I am 202 miles short of platinum on &amp; I have several flights booked. Funny thing, I just got an invite to buy platinum for $695
+  A: That's our AAdvantage Boost Program that we are currently inviting our customers too. Click here for more info
+- Q: I better leave for work, but there's definitely a path to Platinum Pro on before Dec 31 if I fly a few more times this year.
+  A: Thanks for your continued loyalty and support for the AAdvantage program!"
+664850,also like to commend the wonderful landing. I think I compressed two vertebrae in my neck on that one. #learningtofly,FlightDelaysAndDisruptions,We loved seeing you with us and we can't wait to do it again!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Had the most pleasant flying experience with yesterday (take notes ).
+  A: We loved seeing you with us and we can't wait to do it again!
+- Q: Want a bad experience? Fly
+  A: We're here to provide great service for all our customers. Please let us know how we can help you this morning?
+- Q: My favorite seat on the plane. Feels like home. #firstclass #seeyouontheothersideoftheworld #traveler…
+  A: 2J is a greAAt seat! You're going to be so nice and comfy all the way to LAX."
+2014435,Lol? How is that funny? Seriously- who is in charge of your social media account?,FlightDelaysAndDisruptions,"We hope you'll stay with us, we're very sorry you weren't updated. Depending on who you booked with, we may not have your contact info.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I only opened my twitter account to blast for this poor experience.
+  A: We hope you'll stay with us, we're very sorry you weren't updated. Depending on who you booked with, we may not have your contact info.
+- Q: ...Tweeted while waiting to take off 3.5 hours late because is your friend who texts “On my way!” when she hasn’t left yet
+  A: We're sorry for the wait, Samantha. We know how important your time is and we appreciate your patience.
+- Q: Great piece on using social media and Twitter, and for me the best customer support in the business.
+  A: Thanks, Chris, we appreciate your support and love and wish you and your family a #HappyThanksgiving!"
+582337,"Clear skies and friendly smiles! What more do I need! Happy holidays, dear friends! Let’s finish this year off strong! ❤️✈️❤️",ComplimentOrAppreciation,Thanks Tracey! Happy Thanksgiving.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: loved seeing you all on ! Good luck with #HolidayTravel and #HappyThanksgiving
+  A: Thanks Tracey! Happy Thanksgiving.
+- Q: I am flying Thanks to So happy!
+  A: We're so excited to welcome you on board, Eric! We'll take great care of you.
+- Q: nailed it! Thank you for making our holiday travel so pleasant! Best customer service &amp; flight crew.
+  A: Woohoo! That's what we love to hear. Thanks for joining us."
+2594627,I OBVIOUSLY DID THAT. I WAS TOLD I WONT HAVE IT TILL TOMORROW OR LATER. HOW IS YOUR MISTAKE GONNA SCREW ME OVER?????????,FlightDelaysAndDisruptions,"If you want to provide further detail via DM, then we can take a closer look here.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I did and it did not help! They didn’t send one over
+  A: If you want to provide further detail via DM, then we can take a closer look here.
+- Q: How do you fix this? This was important to me. And obviously not you.
+  A: We've got you reserved for the next available flight. Our apology for upsetting your destination plans.
+- Q: Now sending back my voucher via mail. I won’t receive it for weeks. Meanwhile, the voucher expires Beginning of November.
+  A: We'd like to take a closer look at this so please DM your record locator and provide additional details."
+284102,"She &amp; Bob &amp; Debbie at CLE were all great - helpful, apologetic, friendly, &amp; accommodating. We appreciate it, even if we couldn't fly with you today!",DirectAssistanceOrDM,We're so glad to hear of a job well done! We'll be sure to pass it along. #AATeam,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Amazing customer service by Susan Dunaway at CLT yesterday. Thank you #AATeam
+  A: We're so glad to hear of a job well done! We'll be sure to pass it along. #AATeam
+- Q: A big thank you to Beverly at #DWT and Yvonne at the Executive Platinum Desk for helping me during a very difficult time. You were wonderful and I will be able to get home in time for my mom’s funeral.
+  A: We're sorry to hear about the loss of your mom, Amelia. We'll make sure they know how grateful you are. Let us know if you need anything.
+- Q: A HUGE thank you to for accommodating &amp; exceeding our needs after Jason &amp; I missed our flight out of Paris! #CustomerService 👏🏼
+  A: We're always happy to help when we can. So glad it worked out, Mike."
+2792440,De cuando me urge contactar a la gente de para cambio de reservación y el sistema te da tooooodas las opciones menos esa.,FlightDelaysAndDisruptions,We're sorry for the late start today. As soon as we have clearance we'll be headed out.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Muy mal dos horas de retazo en el avión por fallas técnicas ... Y aún no salimos ...
+  A: We're sorry for the late start today. As soon as we have clearance we'll be headed out.
+- Q: Pagar por un servico en una compañía como es perder la plata...compañia donde las promesas de servicio y la politica de atencion al cliente no sirve de nada
+  A: Please continue to work with our baggage folks. Well have you reunited with your bag as soon as possible.
+- Q: cuándo van a dar respuesta por los reclamos efectuados por el vuelo 931 MIA - EZE del 26/09?
+  A: Customer Relations has received your concerns and will be in touch with you directly!"
+50981,"If can find a way to let me watch game 7 while flying home tonight, you will be my airline for life",FlightDelaysAndDisruptions,We're ready to go with you. Please give us a call at 800-433-7300 and we'll find you the lowest fare available.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Quick someone get me a flight from Atlanta to LAX for game 7
+  A: We're ready to go with you. Please give us a call at 800-433-7300 and we'll find you the lowest fare available.
+- Q: Glad it's a night game since there is no wifi on my first flight #GoBlue!!! #bigproblems #AmericanAirlines
+  A: We don't like seeing our customers disappointed. We're doing all we can to update our fleet by the end of 2017:
+- Q: . On a flight from LA to Philly and you don’t have ANY in-flight entertainment?!YOU SUCK. I’ll choose another airline next time!
+  A: We're making updates to our fleet and you can see which flights have in-flight entertainment here:"
+2040657,These calls are recorded for quality assurance. I can tell right now that there was no quality in my recent call. #AmericanAirlinesIsTrash,DirectAssistanceOrDM,"We understand how that could be frustrating. We're here to listen and help if we can, Stephen. Please DM us the details.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Been trying to resolve an issue with for almost a month - customer service is horrible #AmericanAirlines #notthathard #silence
+  A: We understand how that could be frustrating. We're here to listen and help if we can, Stephen. Please DM us the details.
+- Q: Hanging up on customers when you can’t explain something is bad business. Do Better! #americanairlines
+  A: Our apology for a disconnect. Please give us a call back, so we can help to book the travel you desire.
+- Q: I don’t have but my AA# is 0F30EF2. I am available for discussion anytime and I want the call recorded
+  A: We're a virtual team. Please meet us in DM. You can also provide the flight this is concerning. We can submit a request with a specialist."
+256854,I DM’d my record locator. Been in the Rebooking line at MIA over 2 hours.,FlightDelaysAndDisruptions,We've received your DMs and will respond shortly. Thanks for your patience.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thx. Record locators sent DM.
+  A: We've received your DMs and will respond shortly. Thanks for your patience.
+- Q: You asked for my record locator #
+  A: You've arrived at your destination now, right?
+- Q: I have sent the Record locator over to you. Thank you for looking into this.
+  A: You're welcome. We'll take a look."
+1049499,It's been 72hrs since I left my iPad on 622 at the . I'm sick to my stomach over how impotent they are to help.,FlightDelaysAndDisruptions,"We want to get you reunited, had you filed a claim with our Lost and Found team? Please follow-up via DM.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I left iPad on plane to #DCA, gate agent called &amp; said he found it. 1day later it's missing and lost in your processes. WTF
+  A: We want to get you reunited, had you filed a claim with our Lost and Found team? Please follow-up via DM.
+- Q: Dear I have been an unhappy passenger recently, but today I am a happy. I lost my iPad the last time through PHL. Today I got a call it was found! I should have it back in a day or two. Thank you! #greatful #relieved
+  A: This is AAwesome news! Glad our #AATeam was able to track it down!
+- Q: Ok I retract my comment. Now I realize what’s going on. #Tablets
+  A: Yep! We hope that you like them and you can find more information here:"
+1191202,your MSP counter for priority makes us feel anything but...,FlightDelaysAndDisruptions,Great! We'll send this on to our leaders.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Yes, it was the priority counter. She reassured me that she'd fix the issue and she did!
+  A: Great! We'll send this on to our leaders.
+- Q: priority? #not!!!!!!
+  A: We're sorry for the wait, our team will get everyone checked in as quickly as possible.
+- Q: So glad I’m priority for and you don’t let me in priority lane unless I have pre-check. Apparently shut priority down!?!?
+  A: Your experience is important to us. If you need assistance, please reach out to our airport team."
+259577,"Never had worse service in my life on an airline, way to go 2555.",DirectAssistanceOrDM,We'd like to pass along your feedback Maggie. What was your flight number?,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: is quite seriously the worst airline I've ever flown. Poor service, 2 hour delay, checking a bag I ALWAYS carry on..never again
+  A: We'd like to pass along your feedback Maggie. What was your flight number?
+- Q: Just experienced the worst service I've ever encountered on ... Was a loyal customer but certainly will not be flying with them anymore
+  A: What's going on, Tyler?
+- Q: never will I️ ever fly this horrible airline!! Absolutely worse service and no priority at all given to First Class...
+  A: This isn't the experience we wanted for you and we apologize. Please DM your flight details and we'll forward your comments on."
+2295204,Hey you lost 40 people’s luggage and haven’t given us any type of update.,BaggageIssue,We see that our Baggage Service team have your info and are providing updates as they come in. They'll be sure to reach out to you ASAP.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: We are checking in for our flight home and guess what?!? Still no bags and your crack team of agents have been able to provide no update. Great job AA, you’re killing this customer service game #Ijustwantmybag
+  A: We see that our Baggage Service team have your info and are providing updates as they come in. They'll be sure to reach out to you ASAP.
+- Q: Well that information was useless! That number cannot provide updates on lost cabin items. Why can nobody tell me if it is lost or found!!!
+  A: If it's a lost item, file out a lost and found report with our team via and they'll follow-up with you directly.
+- Q: And all I want is a response to my lost luggage query but you can't even do that.
+  A: The item left behind hasn't been turned in at this time. You'll be notified if it is."
+1309501,"and here we are, in LAX, 11 hours delay to Hong Kong! No guarantee of hotel reservation there by AA! No menu dining in business! And Executive Platinum level does not help at all! Great way of treating your loyal customers!!",DirectAssistanceOrDM,Some would say it's going to be #amAAzing!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Nestled into my hole here in #businessclass HKG-LAX. Gonna be a good flight!
+  A: Some would say it's going to be #amAAzing!
+- Q: Hey, - I'm on AA 751 PHL to LAX leaving at 3:40 p.m. Is there meal service on this flight?
+  A: We offer dinner in the forward cabin and food for sale in the main cabin. You're always welcome to bring your favorites on board.
+- Q: wish i had status on AA, first ever flight booked and they changed return by 3 hours! LAX after 11pm!
+  A: We know schedules changes can be frustrating and do our best to keep them to a minimum. Please call 800-433-7300 for other options."
+303242,Y’all reply faster when it’s public vs DM... 🤔,FlightDelaysAndDisruptions,"Troy, we don't have an DM's from you. If you follow us, we'll try to send one your way to get started.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I’ve been DM’ing with no response
+  A: Troy, we don't have an DM's from you. If you follow us, we'll try to send one your way to get started.
+- Q: good morning gang, I sent a DM. No rush.
+  A: We've got your DM, and will reply back in a minute or two.
+- Q: DM'd you
+  A: We have it and will reply there. Thanks"
+540488,My last 5 flights on have been old US Airways clunkers 😒 #HorribleLuck #MakeAmericanGreatAgain,CustomerServiceComplaint,"We love having you with us and providing a great experience, what's going on that has you feeling otherwise?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: #americanairlines #AA #flight207 My wife and I experienced one of the worst American Airlines flight ever.
+  A: We love having you with us and providing a great experience, what's going on that has you feeling otherwise?
+- Q: Never fly #americanairlines! This is the 4th flight in less than 2wks that I’ve been on that they’ve #overbooked and have to kick people off
+  A: Our apologies for the experience. Please work with our airport team for best options.
+- Q: this my last time flying with you guys. Y’all are the worst airline!
+  A: This isn't what we like to hear and we'd love to help in any way we can. Shoot us a DM and let us know what's going on."
+1143354,Apparently doesn’t respond to tweets either. Horrible service!!!,DirectAssistanceOrDM,We're so happy our #AATeam was such a big help and we changed your perspective of us. We're looking forward to seeing you.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: My tweets are usually complaints. Recently spoke ☎️w/customer service 2x about 2 diff ✈️&amp; they were absolutely great + helpful.
+  A: We're so happy our #AATeam was such a big help and we changed your perspective of us. We're looking forward to seeing you.
+- Q: All of tweets are apologizing to customers. I got a friend delayed 3 hours right now in JFK, it never fails. Always a problem
+  A: We'll get your friend on their way as quickly as we can!
+- Q: I did DM you guys but received nothing. The same as no response from your website TLBCUH. If I didn't tweet publicly, i doubt a response
+  A: We're truly sorry for the wait. We do see that you're on board now and we should have you on your way shortly."
+844608,To be clear im not mad at any one person. But the convention i paid to be at is starting now and im in a motel 6 several states away,FlightDelaysAndDisruptions,"You can get free seats, but it's not guaranteed that you'll sit together. Our airport team will do all possible to make that happen.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Lady on phone told me we had to pay if we wanted to have a seat together or we could wait till we got to the gate and be screwed.
+  A: You can get free seats, but it's not guaranteed that you'll sit together. Our airport team will do all possible to make that happen.
+- Q: I told you what happened... Seat 6B was open..I am in 6C..I was informed that it would be 35 dollars to move my friend even though there were 18 people on the stand by list... Someone was going to get that seat..DM yourself..I paid for that seat twice
+  A: We offer Main Cabin Extra &amp; Priority seats for purchase. Once we're closing the flight, we'll release those seats.
+- Q: And then the same thing for the hotel ? Shame on you all. What a shit industry.
+  A: Were you finding this fare on our site or via a third party? Please DM some additional details so we may take a closer look."
+2801714,it’s ok for your reps to state they are hanging up and yet you want a $200 fee to support that employee and your exemplary service!? Refund and book elsewhere! Poster child rep hung up on wrong girl.,TicketingAndRefunds,Sorry about that Ryan. Feel free to give our web support team a call for help:,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: My assistant is talking to a rep and they’re wanting to charge him a fee to book over the phone. Fix your website or don’t charge me a fee!
+  A: Sorry about that Ryan. Feel free to give our web support team a call for help:
+- Q: Thank you for responding so quickly and for agreeing to waive the $200 cancellation fee. You are the best!!!
+  A: We're glad we could help. We love being here for our customers 24/7!
+- Q: the customer service at central baggage has been an absolute nightmare. I've been assigned to three different people for my claim. They want nothing to do with my concerns. In fact I haven't heard a single apology. They claim to be able to do nothing.
+  A: Our apologies if our service hasn't been up to your standards. We want to help but they have the final say in this case."
+714840,You're taking me to in December! Can't wait. :D xo,FlightDelaysAndDisruptions,We are working diligently to address the issue and expect to avoid cancellations this holiday season,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I hope I don't have to worry about my flight in December
+  A: We are working diligently to address the issue and expect to avoid cancellations this holiday season
+- Q: our date will have to wait. Thank you for letting me volunteer to give up my seat twice tonight :) :) see you in 22 hours
+  A: We'll be here waiting!
+- Q: We know you have a choice when it comes to air travel.. Don't chose during December. They are going on vacation, but won't tell you before it is too late.
+  A: We'll make sure to get all our families where they need to be for the holidays. Cancellations aren't expected."
+1111534,You’re missing the point. The upgrade was provided! I was moved to 1F an hour before take off. I was downgraded as I was boarding.,SeatingAndBoarding,We understand this trip's not going as any of us preferred. Please do send us a DM when you arrive.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks also for not getting me upgraded after I was confirmed for an upgrade on the original flight you cancelled. Wonder why I work to get status anymore...
+  A: We understand this trip's not going as any of us preferred. Please do send us a DM when you arrive.
+- Q: #incompetence app showed upgrade 50 min before flight &amp; at gate was told someone higher checked in late so they took it back.
+  A: We're sorry we weren't able to keep your upgrade, Kirk. Our agents will help book the best available seat in Main Cabin.
+- Q: allows u to upgrade as long as u are paying even w/o the elite status. Im disappointed that I wasnt allowed to spend $$
+  A: Usually upgrades become available for purchase within 24 hrs of your flight at an airport kiosk or online when you check-in."
+890924,"Missed int'l connection for maintenance, will arrive 24h late, stuck in LAX for 8 h and little help from",FlightDelaysAndDisruptions,Our crew will try their very best to make up time while in the air. Our apologies for the late start today.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: We were supposed to leave LAX at 2:25 PM what time is it now 😡😤 Made us wait for almost an hour without telling us why. ANNOYED
+  A: Our crew will try their very best to make up time while in the air. Our apologies for the late start today.
+- Q: An hour delay on my JFK flight to Phoenix, which means I miss my connection to LAX. We are already boarded and everyone is ready then they tell us. All because of a maintenance issue in the front bathroom, come on this is my father’s funeral. #americanair #JFK #LAX #flight1458
+  A: We see our airport team has your rebooked now on the nonstop flight at 2:30p. Have a great flight!
+- Q: - 5 hour delay. 1st mechanical issues, now no crew - flight 725 - Charlotte NC to LAX -must do better!
+  A: We hear you and are currently looking for a crew for your flight. Thanks for your patience and our apologies for the wait."
+343179,Officially stranded in #Chicago. But with views like this even I can't be too mad ... but imma need my hotel reimbursed - stat.,FlightDelaysAndDisruptions,We're so sorry that you were unable to get a hotel room. Please work with our team at the airport.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: : why pass out hotel vouchers, then say hotels near chicago o’hare are sold out? trip back to stl ruined. #1315 rebooked #1323.
+  A: We're so sorry that you were unable to get a hotel room. Please work with our team at the airport.
+- Q: sitting at MIA airport waiting for NY flight w/ no updates. 1st 🛩 with no battery and we're sitting here waiting #terrible #sad
+  A: Our team is taking care of some maintenance on the aircraft, we expect a departure of 5:35p. Thanks for your patience.
+- Q: ...terminally ill disabled woman missed connection to SDF due to special assistance inability to get her to gate, now she's stuck at DCA, alone, sick, can't stay in hotel alone! Get her to SDF tonight! Traveling to spend last weeks with daughter!
+  A: Your comments concern us, Doug. Please meet us in DM with more information. Is she still with special assistance?"
+2127763,"Assume that you’d didn’t get the extra 140 characters yet to say... so here’s 10,000 airmiles and gold status to make up for it",GeneralFlightFeedback,"Overweight bags require special handling, you're able to split up the weight between 2 bags. Take a look",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: You are ridiculous. I have Gold status and you want to charge me additional $100 for bags??? No thanks, maybe I'll use that $$$ for a different airline in the future.
+  A: Overweight bags require special handling, you're able to split up the weight between 2 bags. Take a look
+- Q: still wants $1299 to extend my platinum status for another even after I re-qualified as gold....it’s a no for me. Smmfh.
+  A: If you give our AAdvantage Customer Service team a call, they'll take a closer look with you:
+- Q: Make that 10 now 🙃 That's why I always tell my company that I'm only flying ... my fav.
+  A: We're so sorry for the delay this evening. Our crew will take great care of you during your flight. We'd love to see you again."
+2762297,"Should I be concerned that on the site, my reservation says ""Please call to book your trip. Contact Reservations, or call your travel agent to ticket and pay for your trip.""",TicketingAndRefunds,"We'd like to look into this, please DM both record locators, Yelena.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: That’s ! Booking does not mean ticketing. Customer service can’t help. No refund for their mistake. Thanks for the advice &amp; inspiration, folks.
+  A: We'd like to look into this, please DM both record locators, Yelena.
+- Q: Hi I’m trying to book ticket on your website but it always fails after I put in the payment, can you please help me with this?
+  A: Please give our web support team a call for help.
+- Q: is a fraudulent phishing website. They just tried to give me a voucher for a flight. Glad I called your Customer Service.
+  A: We're glad you called to find out more information too, but we'd like your help as well. Please take a look:"
+286482,I put my KTN on my reservation and checked in but no precheck. Can you help please? ORD-EWR today,TicketingAndRefunds,"Please give us a call at 800-433-7300, we'll be happy to assist!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Can you help me with a reservation please? App says I'm ticketed, website says no rez at all. My KTN isn't applied to rez so not getting pre-check.
+  A: Please give us a call at 800-433-7300, we'll be happy to assist!
+- Q: I recently booked two trips and forgot to apply my KTN to the reservations. Can I still do it somehow? I need my TSApre.
+  A: Sure we can add it! Send us your KTN number, date of birth, and record locators via DM.
+- Q: Unable to locate reservation
+  A: Please send your record locator our way to take a look."
+474645,Already did! Still no update,FlightDelaysAndDisruptions,"We're unaware of anything, Molly. Have you tried to delete the app and reinstall it?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: are you having known app issues? It's trying to force me to update but no update available?
+  A: We're unaware of anything, Molly. Have you tried to delete the app and reinstall it?
+- Q: what is up with your app? worked yesterday. Today no functionality. Says need new version. But no updates avail in App Store ☹️
+  A: We'd like to share this with our App team, Jenn. Please DM your record locator, what version you're using and your phone type.
+- Q: just did so! 👌
+  A: We see your DM and will respond to you there."
+178549,We can't write this stuff. It just happens in real life. #travel #flying #yoga #seatbelt,SeatingAndBoarding,We clean before and after every flight and would like some more info. Please DM your record locator with additional details.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: When your seatbelt smells like the worst BO you have ever smelled and the stewardess states people don't smell seat belts #rude
+  A: We clean before and after every flight and would like some more info. Please DM your record locator with additional details.
+- Q: Seriously this plane is junk . I can’t fit in the seat or use seat belt and it’s safe??
+  A: We certainly want you to be safe, Ray. Did you ask one of our crew to move you?
+- Q: Empty seats all over this plane and my partner isn't allowed on...well done 🙄💩 #flyingwhilegay
+  A: We never like to leave anyone behind, Lisa. Did your partner miss the check-in time?"
+2887860,thaaaaank’s 🛫🥂,GeneralFlightFeedback,We're counting down the days!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: 😁😁😁😁
+  A: We're counting down the days!
+- Q: 👎🏻👎🏻👎🏻
+  A: We want a thumbs up, Javier. How can we help.
+- Q: Flying back to on ✈️
+  A: We're ready to go, Andrew! Thanks for hanging out with us today."
+340251,i have an emergency and need to change a ticket to a diferent name for health reasons can you help !!!,TicketingAndRefunds,Please follow us in DM and provide your record locator so we can provide additional information for you.,True,Safety-related language detected; brand policy escalates safety concerns to a human.,"- Q: just got married and need to change my name on my Advantage number and future ticket!!
+  A: Please follow us in DM and provide your record locator so we can provide additional information for you.
+- Q: my dad had a medical emergency(we have a doctors note and ER copay receipt) and can’t make his flight this Friday, we’ve canceled the flight but the change fees are quite high and we would appreciate help in this hard time. Thanks! #grateful
+  A: We're wishing that your dad feels better soon, Aiden. We can't make any promises but we don't mind looking. Please DM your record locator.
+- Q: S/O to Anne for waiving last minute fees so I can get to see a family member in emergency medical situation #CustomerService
+  A: This is fantastic news and we're happy our #AATeam could make things a little easier for you. We'd love to recognize Anne. DM your locator."
+1161787,"I've sent a complain to yesterday and I just received an automatic message, I'm still waitting their answer 1-25560221652",FlightDelaysAndDisruptions,"We'd be happy to help here. Please share your feedback, including your record locator, via DM.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: is there a phone number to call to complain or is it strictly via email/letter?
+  A: We'd be happy to help here. Please share your feedback, including your record locator, via DM.
+- Q: That is what was stated. I have a really nice phone with great service. If they called why not leave a message or try again?
+  A: We'll have someone reach out to you again, Robb.
+- Q: Booked flights home with last night and haven't received my confirmation email and stupidly didn't write down the booking reference number. #helpmeimdumb
+  A: We'll gladly take a look for you, Sara. Please DM us the city pair, departure time or flight number and name as it appears on the ticket."
+834511,Time lapse departure DEN to CLT red eye 1:20 am 10-13-2017 Working hard! #RampLife 😜❤️✈️🛫,ComplimentOrAppreciation,"Welcome to sunny California this afternoon, JD!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Made it to LA - 45min early!! Thanks ✈️ #travel #adventure
+  A: Welcome to sunny California this afternoon, JD!
+- Q: 41 days until our next flight! #luxtravelchat
+  A: We always love seeing you with us and we're starting our #countdown!
+- Q: Another great flight from PHL to CLT. Fantastic #AATeam on flight #AA457 from the Captain to the Flight Attendants! And an early arrival! TY!✈️
+  A: We're so glad you had a wonderful flight, Laura. We'll take you where you want to be any day!"
+2116442,So what is preferred about? Group 8 boarding and no extra legroom????,SeatingAndBoarding,We board based on class of service booked as well as elite status. Here's more info:,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I forgot how works. Boarding group three is really group 13.
+  A: We board based on class of service booked as well as elite status. Here's more info:
+- Q: I did board in Group 5 however thought should given to WHERE an upgraded seat is. Seat 5A combined with Group 5 doesn’t make sense IMO.
+  A: We appreciate your feedback, Jay. We always aim to provide a great boarding experience for all our most valued customers.
+- Q: please help me get priority boarding I am in extra leg room seat but board group 8 first leg was business class flight #2435
+  A: Hi there, Karen. Please reach out to our airport team to assist."
+1850315,A 2 flights story: first - it lost my luggage with all diabetes medicines second - it broke my new suitcase The worst company!,CustomerServiceComplaint,Thank you for being so patience with our team. We're sorry it took longer than expected.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: FIVE months took you to reimburse me two suitcases you destroyed. Shame on you! Get your act together! Worst airline ever!
+  A: Thank you for being so patience with our team. We're sorry it took longer than expected.
+- Q: horrible experience tonight and now i'm without my medication because my luggage is god knows where. this is not okay
+  A: Please DM your baggage claim number. We'd like to check on an update.
+- Q: Spent my first day in New York crying because the useless airline that is have lost all of our bags :-)
+  A: As soon as we receive the luggage from BA, we'll update the tracking system with the most up to date arrival time."
+1826387,I tap on the windshield to get the pilots attention they oblige knowing they are carrying ME! (something special in the air),GeneralFlightFeedback,Enjoy your trip and it's a pleasure to see you today!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: They let me change seats and now I'm sitting next to a transferring pilot so I'm safe hands :)
+  A: Enjoy your trip and it's a pleasure to see you today!
+- Q: I love it when there's room in the overhead bin for my carry on but makes me check it so I can waste another hour when I land.
+  A: Sorry for the inconvenience, Samiey. What's your flight number? We'd like to pass along your feedback.
+- Q: I regret flying and hope I don't have to do it again anytime soon. Long #Advertisements over the intercom in the middle of the flight... Can't avoid, so loud can hear thru headphones. Worst customer experience, hope to never give #AA any more of my $$.
+  A: Having you on board is always a pleasure for us and promotions are important for customers who aren't aware. Thanks for your feedback, Jeff."
+2663099,A lot of unhappy folks will be complaining to about 2821 after a 5 hour delay and counting. Total mess!,FlightDelaysAndDisruptions,We're currently showing an estimated time of departure being 3:25p. We appreciate your patience.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: please comment on what is going on with flight 3749. This is ridiculous with the 5 delay notifications. What time will it leave
+  A: We're currently showing an estimated time of departure being 3:25p. We appreciate your patience.
+- Q: 2375 3hr 20 min late and counting at O'Hare. they boarded us 45 mins ago still not a word on what's up - sucks!
+  A: You should be on your way very shortly. We really apologize for the wait and appreciate your patience.
+- Q: does it again. Another flight another delay. #1373 #maintenance #ALWAYSSOMETHING
+  A: We always aim for on time departures and we're so sorry for the extra wait today. Our crew will take good care of you."
+1638045,"💜✌🏻🚀🦄 (@ American Airlines Admirals Club - in Miami, FL)",FlightDelaysAndDisruptions,We're glad you're enjoying our club! It's a great place to relax prior to flying.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: ビール飲んどった♪ (@ American Airlines Admirals Club - in Miami, FL)
+  A: We're glad you're enjoying our club! It's a great place to relax prior to flying.
+- Q: I'm at American Airlines Admirals Club - in Guarulhos, São Paulo
+  A: Happy to have you with us Ulisses!
+- Q: I'm at American Airlines Admirals Club - in Guarulhos, São Paulo
+  A: Welcome and it's great to have with us tonight. Have a great flight and trip!"
+709650,"why not just give us the truth about flt 1135 rather than delay after delay, your EPs are getting super frustrated",FlightDelaysAndDisruptions,It sounds like everyone had a long day. We're sorry to hear this. We'll have you wheels up and on your way shortly.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: flt5529 sitting near front on delayed flt listening to crew yuk it up about the flt issues w no regard for passengers 😕
+  A: It sounds like everyone had a long day. We're sorry to hear this. We'll have you wheels up and on your way shortly.
+- Q: why is aa1149 delayed?
+  A: There's air traffic delays in EWR this afternoon. We're estimated to leave now at 5:20p.
+- Q: Can you tell me if the flight to Bermuda flt 1416 is delayed hope I make it
+  A: It's pulled out of the gate. We have you backed up on the next option, please work with our airport team for a new boarding pass."
+2431735,When are you bringing peanuts back?,FlightDelaysAndDisruptions,"Please see more details here: Scroll to the bottom and select ""Nut Allergy?"".",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Flying you for the first time next Saturday. Severe peanut allergy. Anything we need to do? Thanks for not serving peanuts!!!
+  A: Please see more details here: Scroll to the bottom and select ""Nut Allergy?"".
+- Q: Just leaving gate. Wish we could have known they weren’t going to show up. I️ would have purchased food before flight.
+  A: We know this is upsetting. We're working on having our catering out of LAX back to normal.
+- Q: RIC catering dropped the ball again on flight AA2630 to DFW. No warm nuts or bread were catered for FC. #processbreakdown
+  A: We always want you to have a great First Class experience. Were you able to ask a crewmember for a snack?"
+2394811,Missed my presentation via . Career highlight? 🚽,FlightDelaysAndDisruptions,We're very sorry for the delay. Please DM your record locator if you need rebooking.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I’m missing part of a work conference tomorrow bc of being completely unhelpful after their delayed flight
+  A: We're very sorry for the delay. Please DM your record locator if you need rebooking.
+- Q: Had a wonderful time with the #careers team today learning more about the FA duties and hoping to be a part of this awesome team
+  A: We'd love to have you join our #AATeam, E.J. Check here for career opportunities:
+- Q: That AAwkward moment you walk through the Flight Academy and see yourself at #aaviationday on TV. #careertakeoff
+  A: Being on TV looks good on you, Martin!"
+305375,looking to book flights stay away from American horrible flights and customer service. Customer not first,TicketingAndRefunds,"We don't want you to feel this way, how can we help?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: is the worst airline ever, I will never book with them again. They don’t care about anything other than the money. If you treated your customers better, you would have more of them, I’m just saying.
+  A: We don't want you to feel this way, how can we help?
+- Q: not only is the flight experience horrible, but your customer service is fucking terrible.........
+  A: What's going on, Bianca? Feel free to send us a DM with whatever you're needing, if there's anything we can do to help.
+- Q: safe to say I just had the absolute worst customer service rep I’ve ever had. And will try never to fly American again.
+  A: We sure don't like the sound of that, If you're still needing assistance, please DM your locator and details so we can take a look."
+1037810,forever having issues man! 😤😤😤,FlightDelaysAndDisruptions,Awesome news. We're so glad the team was quick to make the fix that was needed!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thank goodness for and their great customer service - as I thought I would have been on the phone several hours and my problem was fixed in 5 minutes. 😇
+  A: Awesome news. We're so glad the team was quick to make the fix that was needed!
+- Q: just did so! 👌
+  A: We see your DM and will respond to you there.
+- Q: still never resolved the issue on my account? We are now going on 3 weeks I really can’t believe this is happening and no one cared to get to the bottom of it.
+  A: Please continue working with our specialists in AAdvantage Customer Service. They'll do their best to provide more info."
+539327,Where is co-pilot for AA #679 FLL to CLT? 1.5 hour delay-and counting. What comp will AA offer pax affected by AA buffoonery?,FlightDelaysAndDisruptions,"We're not very fond of delays, either. We see that you're wheels up and on your way!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: now we're delayed and we already boarded for 20 more minutes. I don't have to use AA, maybe time to switch. 5347 CLT-CRW
+  A: We're not very fond of delays, either. We see that you're wheels up and on your way!
+- Q: My current flight is AA 1231 to PHL.
+  A: We have an ETD of 6:30p. Thanks for your patience today.
+- Q: gripe sheet at SBA filled out last night ignored until this morning, causing all pax to miss connect in PHX #AA
+  A: We're sorry for the missed connection. If we can help with rebooking, please meet us in DMs with your record locator."
+1691100,Our tickets show 14D and 15D,SeatingAndBoarding,We do have 2 direct flights DFW-YUL leaving at 12:30p and 7p. There would be a change cost plus any fare difference to switch flights.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: do you see any DFW-YUL direct flights for tomorrow?
+  A: We do have 2 direct flights DFW-YUL leaving at 12:30p and 7p. There would be a change cost plus any fare difference to switch flights.
+- Q: ,I’m a Mom of 10 kids-Any chance you have a Super Deal on Roundtrip tickets from the US to Europe for a Family Of 12 ?
+  A: We'd love to fly your family to Europe! Give us a call at 800-221-2255. We'll find the best deals for you.
+- Q: Paid approx $500 from dtw to chicago ticket and still wouldn't change to earlier flight though seats were available. booking number GYYNNS
+  A: We're happy to price out the change if it's more than 2 hours before the desired flight. We're sorry we weren't able to confirm her today."
+1530189,Yes and continue to be on the line 4 transfers after requesting supervisor 10 minutes . Still no supervisor. More suggestions?,FlightDelaysAndDisruptions,"We understand how that could be frustrating and apologize for the extra wait time, Amy.",True,Customer explicitly requested a supervisor/human.,"- Q: Friend was willing to pay fees. Employees told him to get in different lines then closed the line, and made to get in longer line.
+  A: We understand how that could be frustrating and apologize for the extra wait time, Amy.
+- Q: Will prob need it as connection is departing in 5 min, and I'm still taxiing in ORD
+  A: Please see an agent upon arrival then and they'll issue you a new boarding pass.
+- Q: Is it normal to taxi for 30+ mins? This is outrageous. Get your act together. Flt 1598 at ORD
+  A: Sorry for the wait, Joe. We're glad to see you're good to go now."
+2713483,KDVPSX,GeneralFlightFeedback,Your loyalty is greatly appreciated and we're so thankful to have Andy as a part of our team. Thanks for the kudos. #AATeam,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: after 2 years of flying with yall... i have my best experience yet! Thanks to Andy ""sir"" on my flight from kdfw to kmaf! Flight 5998
+  A: Your loyalty is greatly appreciated and we're so thankful to have Andy as a part of our team. Thanks for the kudos. #AATeam
+- Q: gate couldn’t address and sent me to K7 at ORD. Again customer service....
+  A: We strive to provided exceptional service at all times. Our apologies. We look forward to seeing you in the morning.
+- Q: CLE-&gt;DFW-&gt;PHX Home for a bit, I hope.
+  A: Always great seeing you, Dale. Make sure you fit a nap in there somewhere!"
+298130,Sometimes life happens eh?,FlightDelaysAndDisruptions,Aww you're making us blush now! #bff,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Im Sorry I meant ... but does me right everytime I Fly😁
+  A: Aww you're making us blush now! #bff
+- Q: I get things happen, but nothing that has happened was my fault and I have been running around and I don't need attitude.
+  A: We know seats being changed is frustrating. We're not able to guarantee them, and apologize for the inconvenience it caused.
+- Q: Having to fly tomorrow reminds me why I live so much.
+  A: We're here if you need any booking assistance. You can also contact our Reservations team at 800-433-7300."
+2525648,If wants to honor my miles I’ll gladly switch. It’s a nonstop shitfest with,FlightDelaysAndDisruptions,"We're sorry things didn't go as planned, Emily. We always want your travel with us to be seamless.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Initially I was annoyed that there was no offer of miles for all this we have experienced. But it’s a blessing to be spared another ride
+  A: We're sorry things didn't go as planned, Emily. We always want your travel with us to be seamless.
+- Q: It's my 31st anniversary of joining #aadvantage program today. Almost can't believe the miles flown and places visited.
+  A: Happy Anniversary, Kim. We've truly enjoyed sharing the skies with you over the years and flying you to AAmazing places! #cheerstoanother31
+- Q: email states ""Get the most out of your miles"" by redeeming them for magazines! At least AA acknowledge AAdvantage miles are worthless for travel. #AAdvantagepesos
+  A: We have many different ways to redeem your miles, Jeffrey. You can check them out here:"
+2442698,. need help asap,ComplimentOrAppreciation,"Then you're in luck, because we're here to help. What's going on?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: , I need some help
+  A: Then you're in luck, because we're here to help. What's going on?
+- Q: Help, please.
+  A: Sure, that's what we're here for. How can we help you, Prakash?
+- Q: Thank you very much for your help! Greatly appreciated!!
+  A: We're happy to help, Matt."
+2737009,As u should be. But why doesn’t the board say “boarding?”,SeatingAndBoarding,"We work hard to make the boarding process as simple as possible. If we can help with anything, then please let us know.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Why is your boarding process always like it’s run by the Gestapo? Talk to and learn something.
+  A: We work hard to make the boarding process as simple as possible. If we can help with anything, then please let us know.
+- Q: Someone should tell that boarding from front to back is backward.
+  A: We appreciate your feedback.
+- Q: didn't grant early boarding for people with young children... which is the only reason why we had a kid in the first place.
+  A: If you ask for pre-boarding before we start, our agents should allow anyone traveling with small children the option to board first."
+337072,Help.. help does not answer in the call center...,FlightDelaysAndDisruptions,"We're so sorry, Jeffrey. We'd love to help. Please DM your record locator and what's going on.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: what is going on with your call center. I have hung up on 3 representatives because of their lack of understanding and help with my flight connections and adjustments due to your tardiness.
+  A: We're so sorry, Jeffrey. We'd love to help. Please DM your record locator and what's going on.
+- Q: very helpful phone agent corrected the issue - thanks for the prompt help
+  A: We're so happy our Reservations team saved the day! Thanks so much for your understanding.
+- Q: Apparently after an hour wasted, there is no help and a very simple answer could have been told to me within first moment of calling.
+  A: We're so sorry for the time spent on the phone. If we can answer anything, then please let us know."
+1850909,We emailed the information 2 days ago. The experience is sickening. 😔,FlightDelaysAndDisruptions,"We expect our agents to always be courteous and helpful. Please follow and DM your record locator and tell about your experience, Lori.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I would like someone to contact me about this experience. Still not home yet.
+  A: We expect our agents to always be courteous and helpful. Please follow and DM your record locator and tell about your experience, Lori.
+- Q: I’ve emailed your customer service department as well.
+  A: The team will review your feedback, and send a reply back to you just as soon as possible.
+- Q: 2 days since last response from . Now v confident my concerns abt lack of service provided are not being taken seriously at all
+  A: Our team responds to everyone as quickly as possible and we're happy to help further via DM."
+962790,I used the time lapse feature for the first time during take off. I’ll try again in the future with steadier hands &amp; record the entire climb,FlightDelaysAndDisruptions,"We're sorry for the changes, Jarrod. We're just trying to make the routings most convenient to our customers.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Yea I know. First time you guys have done it, but 4th overall now on this trip. Super annoying.
+  A: We're sorry for the changes, Jarrod. We're just trying to make the routings most convenient to our customers.
+- Q: Interesting ... first time I've tried it... didn't even realize my phone could do it.. learned something new tonight :)
+  A: We never stop learning, right? Have a great evening.
+- Q: I’m very doubtful that you’ll do a 6 minute deplaning and turnaround.
+  A: What we're not able to do, we'll try to make up in the air, Gabriel. We appreciate your patience."
+2814083,Please provide email contact.,ComplimentOrAppreciation,Thank you for the information. We've responded to your DMs.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I have sent u the details via DM
+  A: Thank you for the information. We've responded to your DMs.
+- Q: I’ve emailed your customer service department as well.
+  A: The team will review your feedback, and send a reply back to you just as soon as possible.
+- Q: Please let me know if you receive my DM requesting assistance. Thank you!
+  A: We're looking at your DM now."
+1772044,CHI✈️CLE turn the damn air condition 3058 while we wait man,FlightDelaysAndDisruptions,"We're sorry for the warm plane, Chris. Once we'e airborne, the A/C will kick in and help cool the plane off.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: flight AA869 has no air conditioning...we are dying #thanks
+  A: We're sorry for the warm plane, Chris. Once we'e airborne, the A/C will kick in and help cool the plane off.
+- Q: My flight has no Air Conditioning, im dying up here
+  A: We want you to be comfy. Speak with our flight crew for possible adjustments to the temperature.
+- Q: OMG, our flight #AA2280 just aborted takeoff! Back to the gate for maintenance! 🤭🛫
+  A: We appreciate your patience today. We'll make sure everything's safe to fly before we're wheels up."
+2642311,y'all fuckin up bruh.,DirectAssistanceOrDM,"We're here to help. What's going on, Stacey?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: boooooooy the way yall got me fucked up this morning.. Fuuuuck!!!!!
+  A: We're here to help. What's going on, Stacey?
+- Q: Y'all are bad people
+  A: Our offer still stands to assist in DMs, if you'd like.
+- Q: Te contar, you fucked up really bad, really really bad
+  A: Your comment concerns us. Please DM us your record locator and the details and we'll take a look at your trip."
+2555810,#SayNoToAnimalTrophies,FlightDelaysAndDisruptions,"We've already retired our MD80s and there's just a handful left in our fleet. Thanks for your loyalty, Glen. Glad to see you're in the air.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: #retiretheS80s #super80saregettinglonginthetooth
+  A: We've already retired our MD80s and there's just a handful left in our fleet. Thanks for your loyalty, Glen. Glad to see you're in the air.
+- Q: #DidThatAlready 🙄 #AmericanAirlines ❌
+  A: If you could send a DM with your bag file number, we'd be happy to check on any updates.
+- Q: exactly. #notcool
+  A: We appreciate your patience with our team during the maintenance delay. We're showing a departure time of 8:10p."
+352449,How bout customer service #stoptherunaround,TicketingAndRefunds,"We understand how that could be frustrating. We're here to listen and help if we can, Stephen. Please DM us the details.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Been trying to resolve an issue with for almost a month - customer service is horrible #AmericanAirlines #notthathard #silence
+  A: We understand how that could be frustrating. We're here to listen and help if we can, Stephen. Please DM us the details.
+- Q: But what can you do about the terrible customer service.Stuff happens.I get that.But your agents treating customers this way is unacceptable
+  A: Customer service is a priority to us, Erika. Once your flight is complete, please follow and DM your overall flight experience to us.
+- Q: should be shut down for abusive customer service. I will pay any amount to never fly with these morons again.
+  A: We're sorry that your bag hasn't arrived yet. Please file a report and you can check for updates here:"
+201818,Nonsense,FlightDelaysAndDisruptions,We hear your frustration and very much appreciate your loyalty. Our crewmembers can help find you space near your seat if you ask them.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: What a completely bullshit answer that ignores the actual issue.
+  A: We hear your frustration and very much appreciate your loyalty. Our crewmembers can help find you space near your seat if you ask them.
+- Q: What the entire fuck
+  A: We're actively working on this and expect to avoid cancellations. We look forward to seeing you on board with us.
+- Q: Gross
+  A: We clean our planes thoroughly every night, and do a quick sweep between flights. Please let a crewmember know if you need help."
+987437,"Happy &amp; friendly club attendants Kori and Tracy at B/C Admirals Club in PHL made my morning! ✈ Kudos, ladies and keep smiling!",ComplimentOrAppreciation,We thank you for your business and apologize for the seat change. We're glad our #AATeam at the Admirals Club was able to assist you.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thank you to the nice ladies in the Club at C terminal early this morning - good #CustomerService
+  A: We thank you for your business and apologize for the seat change. We're glad our #AATeam at the Admirals Club was able to assist you.
+- Q: please recognize Michelle at the ATL Admirals Club. She always delivers second to none service with a great smile!
+  A: Yay for Michelle and we'll pass on your great compliment so she's recognized, Andy! #AATeam
+- Q: Another great flight from PHL to CLT. Fantastic #AATeam on flight #AA457 from the Captain to the Flight Attendants! And an early arrival! TY!✈️
+  A: We're so glad you had a wonderful flight, Laura. We'll take you where you want to be any day!"
+1576620,I can give you the number to the bar I’m at if you would like to call and take care of this tab,FlightDelaysAndDisruptions,"There's not a number for Customer Relations, but we're more than happy to review any of your concerns here via DMs.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: so the number you gave me to call in our DM is not for customer relations
+  A: There's not a number for Customer Relations, but we're more than happy to review any of your concerns here via DMs.
+- Q: What's the actual number that I should dial now that I've landed in Uruguay? The number on the site 00040190834 doesn't work for me. Thanks!
+  A: That's the correct number. They're open 24 hours. What message are you getting?
+- Q: I actually need the ticket number, I have confirmation code
+  A: Your 13 digit ticket number will be on your credit card statement from when you purchased it."
+2872968,AA 2408 DFW to ATL departure time 6:35,GeneralFlightFeedback,"We're showing an ETD of 10:30a. We appreciate your continued patience, Bruce.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Any update on departure time for AA193 we are not going to leave by 10 AM
+  A: We're showing an ETD of 10:30a. We appreciate your continued patience, Bruce.
+- Q: what happened to AA flight 48 DFW to CDG yesterday? Diverted back to ORD
+  A: The flight was cancelled once it arrived in ORD and customers were rebooked on the next available flight.
+- Q: I was on their flight last night. AA2194 from DFW-SJC seat 4E
+  A: Awesome! We'll be sure to pass along these fabulous kudos."
+1995612,I fly home toady from my dad's funeral. my boss sent beautiful flowers. Will agents allow extra carry on given circumstances?,BaggageIssue,"We're unable to check bags through if they're not booked on the same reservation, you'll need to re-check them on the new ticket.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Yes, but do I HAVE TO? I have another flight at my final destination for work and I want my luggage to arrive at my final destination
+  A: We're unable to check bags through if they're not booked on the same reservation, you'll need to re-check them on the new ticket.
+- Q: Hi what is your policy about bringing dogs on planes?
+  A: We have just the link for you, Austin. Take a peek here:
+- Q: maybe have your baggage employees be a bit more careful, Yeah?
+  A: Ah, we're sorry to see that happened, Natasha. We count on our team to handle the bags with care."
+2015850,"AA1456, 18-Oct: PHX to SNA-Outstanding, professional service from 1st Class cabin FA Michelle - pass on my compliments! #AATeam",FlightDelaysAndDisruptions,"Our #AATeam loves taking #greAAt care of you, Martin! Come see us again soon.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thx for the #5star service on flight #AA1596 #DENtoLAX Amazing Crew! #travel #sunday #AmericanAirlines
+  A: Our #AATeam loves taking #greAAt care of you, Martin! Come see us again soon.
+- Q: Just deplaned AA 2213 11/24/17 MIA-DFW. This was one of the best flights I have had in a long time. Thank you Jin (632976) for your amazing service, wonderful personality and exceptional care for all of us.
+  A: Wow, that's high kudos, considering how much you fly! We'll be sure to pass along the kind words. #AATeam
+- Q: AA1566 this a.m. Flight crew was amazing!
+  A: Woohoo! We love to hear of a job well done."
+1468651,"Awesome flight 2240 from MIA, pround to be an AA crewmember #AmericanAirlines",GeneralFlightFeedback,Woohoo! We love to hear of a job well done.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: AA1566 this a.m. Flight crew was amazing!
+  A: Woohoo! We love to hear of a job well done.
+- Q: Thank you very much flight crew on the flight #2378 for amazing flight experience ✈️#americanairlines #airplane #flight #kids
+  A: Looks like we have a future pilot in the making! It was so great to welcome you guys on board. Lets do it again soon. #AAdventure
+- Q: #americanairlines #AA #flight207 My wife and I experienced one of the worst American Airlines flight ever.
+  A: We love having you with us and providing a great experience, what's going on that has you feeling otherwise?"
+2164836,They had to call the police because of angry passengers. #dontflyAA,SeatingAndBoarding,"#AAmazing service is always our goal but seats may need to be changed, depending on operational needs. We appreciate you working with us.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: horrible flight attendant on flight 4244. Gave our seats to a different passenger without our permission.
+  A: #AAmazing service is always our goal but seats may need to be changed, depending on operational needs. We appreciate you working with us.
+- Q: Bad Flight diverted and later cancelled. It's like they've never done this before?!!#poorcustomerservice
+  A: That's not what we like to hear. Give us a call at 800-433-7300 if you need help getting rebooked.
+- Q: One of the passenger requested her name and once she knew she started to threat the passenger asking her seat number and talking to the lead cabin attendant.
+  A: We count on every team member to be courteous and kind with our customers. Our sincere apology for any rudeness on board."
+1708106,It would be nice if didn’t consistently shaft every customer that doesn’t cave into using their credit card.,TicketingAndRefunds,Customer service is important to us. You can follow and DM us your record locator and we'll gladly take a look for.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Worst customer service, called twice this week, one worse than the other. Canceling AA credit card. all the way
+  A: Customer service is important to us. You can follow and DM us your record locator and we'll gladly take a look for.
+- Q: really you charged my grandmother, an 85 year old woman, for her luggage when she has your credit card? That’s terrible customer service. #takingadvantageoftheelderly #hideyourwalletgrandma
+  A: We're more than happy to review what happened. Please share your grandmother's record locator thru DMs.
+- Q: Starting to think that y'all like to make it harder for your customers!
+  A: Are you trying to check in?"
+720090,need your help to confirm a rebooked flight! Sending record locator inbox. Iberia didn't find my reservation.,FlightDelaysAndDisruptions,We're taking a look and we'll respond in just a moment.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I sent you a question via DM regarding an AA booking that includes Iberia. Let me know if you can help
+  A: We're taking a look and we'll respond in just a moment.
+- Q: Booked flights home with last night and haven't received my confirmation email and stupidly didn't write down the booking reference number. #helpmeimdumb
+  A: We'll gladly take a look for you, Sara. Please DM us the city pair, departure time or flight number and name as it appears on the ticket.
+- Q: and rebooked me on a flight that would get me home same day (SO grateful for this 1 person). Will reconsider future flights ✌🏼
+  A: We're so glad that our team was able to help you get rebooked, Zaira! Our apologies for the inconvenience."
+1359546,"Once again your ""customer no service"" has caused me to book another airline, as well as try to rework today's flight",FlightDelaysAndDisruptions,Our team loves providing great service and would love to continue this relationship. Please follow-up in DM with additional details.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Dear after today I will no longer be flying with you. I have experience the worst experience of customer services ever!!
+  A: Our team loves providing great service and would love to continue this relationship. Please follow-up in DM with additional details.
+- Q: has the worst customer service. changed flights by 3+ hrs making us change our trip by 2 days and offering no compensation.
+  A: Are you traveling today, Sara? Please follow and DM your record locator and we can review your options.
+- Q: cancelled flight. Rebooked for this am at gate no seats. Horrible customer service!!
+  A: Lisa, we know our team will do all possible to ensure you reach your destination. Some seats may become available at any moment."
+1613923,Please do as they were so lovely and made for a fun flight.,ComplimentOrAppreciation,"We're so glad to hear that you made it, Tobi. Enjoy your flight!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: No need! The super nice crew in Miami held our flight for us. We made it just in time. Thank you!!
+  A: We're so glad to hear that you made it, Tobi. Enjoy your flight!
+- Q: I really enjoyed flying and will fly with them more often for sure.
+  A: We love having you travel with us, and can't wait for the next big adventure!
+- Q: Thank you very much flight crew on the flight #2378 for amazing flight experience ✈️#americanairlines #airplane #flight #kids
+  A: Looks like we have a future pilot in the making! It was so great to welcome you guys on board. Lets do it again soon. #AAdventure"
+2481095,Flight AA583,FlightDelaysAndDisruptions,"Our apologies for the delay. We were awaiting the aircraft to arrive, which it just did. Thanks for your patience.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Flight 3776
+  A: Our apologies for the delay. We were awaiting the aircraft to arrive, which it just did. Thanks for your patience.
+- Q: Just deplaned AA 2213 11/24/17 MIA-DFW. This was one of the best flights I have had in a long time. Thank you Jin (632976) for your amazing service, wonderful personality and exceptional care for all of us.
+  A: Wow, that's high kudos, considering how much you fly! We'll be sure to pass along the kind words. #AATeam
+- Q: My current flight is AA 1231 to PHL.
+  A: We have an ETD of 6:30p. Thanks for your patience today."
+567247,Thank you I had the best service from Tyrone on flight 159 Ashley and Tyrone are the best flight attendants for American air ♡♡♡♡ great flight,ComplimentOrAppreciation,"Please follow and DM your record locator, Jessica. We'd love to forward your kind words to them.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: your Flight Attendants on AA1644 are some of the best! Thanks for your kindness and amazing customer service during boarding
+  A: Please follow and DM your record locator, Jessica. We'd love to forward your kind words to them.
+- Q: Great flight today with from to ✈️🇺🇸 thanks for taking care of us, gate agents, ramp agents, &amp; in flight
+  A: We have the best teams all the way around! We're so glad you had a great flight today. Thanks for the shout out, Tommy.
+- Q: Just had the best service at the flight 916 from BOG to MIA with Alejandro, best flight attendant I have ever had!
+  A: Ana, thanks for being part of our AAdvantage fAAmily! We'll make sure to recognize Alejandro for his outstanding service. #AATeam"
+1249551,wouldn't grant a 12-day ext. on my canceled-flight credit. What purpose does this policy serve other than driving cust. away?,TicketingAndRefunds,"No one likes delays, including us. What's your flight number?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: When delays your flight 14 hours with no refund...
+  A: No one likes delays, including us. What's your flight number?
+- Q: My son was travelling and his wife had a seizure he had to deal with. Was told $200 cancellation. A credit for cancel was more appropriate.
+  A: Please have your son contact us with his record locator and we'll be happy to look into this further for him.
+- Q: Yes. A flight voucher for my delayed delayed flight, causing me to have to leave tomorrow.
+  A: Please reach out to our airport team for possible accommodations."
+2562503,"No questions, just a best of luck for this weekend — boarding my flight to Homestead in 20 minutes.",GeneralFlightFeedback,Please DM us your record locator so we can take a look at that connection for you.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: never flying you again. 20 min late taking off and now just sitting on the tarmac and i’m going to miss my connecting flight. I’m trying to get to a wedding
+  A: Please DM us your record locator so we can take a look at that connection for you.
+- Q: Flight from landed 45 min early in . Nice work !
+  A: Thanks, Jim. Time is valuable and we’re thrilled to hear we shaved off 45 minutes off of our scheduled arrival time. Have a great night!
+- Q: Woohoo finally boarding!! Thanks for being with me on this wild ride!
+  A: You bet! Thanks for flying with us today!"
+460408,nice touch by the FA up front on flight 299 from FLL to DFW.,FlightDelaysAndDisruptions,We're so happy you had a great on time flight! Thanks for spending the day with us.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: My Flight Landed On Time In #DFW -) On Way To Pickup The Rental car A Little Ways Away.
+  A: We're so happy you had a great on time flight! Thanks for spending the day with us.
+- Q: flt 3953 DFW-&gt;FSD 05NOV, thanks Doug! Terrific, exemplary member of the flight crew #outstanding
+  A: Brian, we're super thrilled to hear that coming from you! Our crew is going to be so happy when they see this. #AATeam
+- Q: The FAs on Flight 4625 from BOS-JFK were stellar! Two lovely ladies who were nothing but friendly and pleasant and treated everyone as if they were in FC. Such a nice flight.
+  A: Our #AATeam is so fantastic! Please DM your record locator, we'd like to forward this."
+2258870,"Disappointed! Bad advice from customer service AA0739 PHL to BOS delayed, made me run ALL the way to Terminal B for a flight that left already",FlightDelaysAndDisruptions,Please DM your record locator and we'll take a closer look at your itinerary.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: been over an hour now and going to miss my connecting flight.
+  A: Please DM your record locator and we'll take a closer look at your itinerary.
+- Q: did a great job making sure I was personally handled and presented to the gate of my connecting flight when the delay on my leg preceding it easily could've left me stranded! Thank you RUTH
+  A: We're so glad Ruth took great care of you! We'll be sure to pass along the kudos. #AATeam
+- Q: Thanks for the great customer service waited for an hour and half at the check in desk only to miss my flight#AmericanAirlines
+  A: We're sorry you didn't make your flight, Jake. Our team at the airport will help get you rebooked."
+309612,Why give a menu for your flight when you only get the vegetarian option.. so much for this 5k flight.. never again,GeneralFlightFeedback,We can help. Meet us in DM with your record locator.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: Hi, what is the best way to change my meal on a flight to vegetarian? Can I do it online?
+  A: We can help. Meet us in DM with your record locator.
+- Q: hi! I booked flight thru Expedia, AA operated by BA &amp; had trouble requesting vegan meal. Can you help? Thanks!
+  A: Sure, we'll take a look. Please DM your record locator.
+- Q: Hey flying to MIA next month, wondering what food options are available, specifically something vegetarian friendly. Thanks!
+  A: Please DM your record locator and we'll take a look at it for you."
+2317280,. I called u many times/spoke to ticketing agent about my lost wallet. U said u didn’t have it. Now a month later I get this!,TicketingAndRefunds,We're sorry the flight was missed. We're sure to send notification of any changes but you can also click here:,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: and you didn't update the boarding pass in my wallet and I missed my flight. Thanks a lot
+  A: We're sorry the flight was missed. We're sure to send notification of any changes but you can also click here:
+- Q: Your gate attendants threatened close the gate for a mistake they made. I told them I purchased my ticket was bought with my AA credit card, the manager was rude. No one acknowledged they misread my ticket. I file a complain and all u say is this... #AmericanAirlines
+  A: We're very sorry for the frustration experienced at the gate. We truly value your feedback, and pass it along for internal review.
+- Q: That’s ! Booking does not mean ticketing. Customer service can’t help. No refund for their mistake. Thanks for the advice &amp; inspiration, folks.
+  A: We'd like to look into this, please DM both record locators, Yelena."
+1002998,why should I pay extra for a premium seat when you flight attendants let anyone move into it for free? Just another ripoff.,TicketingAndRefunds,A refund would be processed if you didn't sit in a comparable seat after the change.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I get it sometimes planes change and seating has to change but what happens when you purchase a premium seat! Refund! Bet not!
+  A: A refund would be processed if you didn't sit in a comparable seat after the change.
+- Q: Hey , tell me why your policy is to serve premium seat customers LAST on
+  A: Please let us know if we can help in someway via DM, please include your record locator.
+- Q: Don’t bother paying to choose seats on - they can rebook you and split up your party and they don’t even care or refund the fee
+  A: We try hard to honor seat assignments, but sometimes we may have to make changes. If you don't get the same type of seat it'll be refunded."
+1079278,Then please cover the cost to have my award flight be completed with British Airways on the original dates I purchased.,TicketingAndRefunds,"We're glad you a got a great deal, but even happier that you're flying with us. Have a great trip!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: This is a great deal. Thank you for highlighting it. I booked my flight based on the efforts of .
+  A: We're glad you a got a great deal, but even happier that you're flying with us. Have a great trip!
+- Q: You obviously didn’t read my message. That’s more expensive than buying a brand new flight. Other airlines I have status with wouldn’t charge me. #usairways never would of tried this
+  A: You can fly standby at no charge. See our airport team to get on the list.
+- Q: So am I gonna be able to avoid a cancellation fee so I can rebook my flight with another airline so I can make sure I can actually get home for Christmas?
+  A: We know your holiday plans are important and we fully expect to avoid cancellations."
+1268550,Stuck on flight# 1763 for over 2 hours. I need to fart please send help,FlightDelaysAndDisruptions,"Sure, how can we help?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I need help with my flight.
+  A: Sure, how can we help?
+- Q: can’t board my flight now cause I was 5 minutes late into checking in my bag... can you help ?
+  A: Check in needs to be complete at least 45 minutes prior to departure. Please see an agent for assistance.
+- Q: Stuck in a plane for 2 hours, on the run way, because they don’t know how to gas a plane 😒😒😒
+  A: We're sorry for the late start, Michael. Our team is working hard to get wheels up as quickly as they can."
+1435214,it's almost 10am but my 8am flight AA910 has still not left. They made us get off and go through security 2x to pass the time,FlightDelaysAndDisruptions,"You should be on your way at 7p, again we're so sorry for the delay.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: my original boarding time was 2:45 pm central time, it is now 4:18 here and they keep pushing it back an hour. Waste of my time and poor scheduling. Flight AA3199
+  A: You should be on your way at 7p, again we're so sorry for the delay.
+- Q: when can flight AA0989 get off? Been stuck on runway for nearly an hour and we’re just circling the airport. What’s going on?
+  A: We see that you're at the gate now. Thanks for your patience this evening.
+- Q: Now just moved to 9:30am. Is this a time we can trust? Don’t want to head to the airport too early if it’s gonna bounce back to 12pm
+  A: We're working hard to get you going and the departure time is now showing as 9:30a. Please plan on arriving for that time."
+1165895,My wife has been trying to get to Newark for 2days. Bham&gt;chicago&gt;charlotte every where she goes her flight is canceled.,FlightDelaysAndDisruptions,Give us a call at 800-882-8880 to check flight options. We'll be glad to see what's available.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: arrived late and very tired to SLC after the Monday night delays out of Newark. Can’t you guys add some flights?
+  A: Give us a call at 800-882-8880 to check flight options. We'll be glad to see what's available.
+- Q: At #newark Heading back to Charlotte! ✈️
+  A: Ooh, ready for another #AAdventure? We know we're!
+- Q: Hey everyone, little advice: never fly ever. Missed connecting flights both ways, and now I'm stuck in NC for the night.
+  A: We're sorry for the missed connections. We never want to leave anyone behind."
+408947,Also inflight movies/games/tv shows at no charge for a short flight? Go,TicketingAndRefunds,We're making strides to have our entire fleet modernized. Our apologies that we let you down today.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Hey 6 hours to Vegas but no inflight entertainment or even power connections. This is getting better and better...
+  A: We're making strides to have our entire fleet modernized. Our apologies that we let you down today.
+- Q: . handed out free earphones because of the delay. Not happy about maybe missing my connecting flight, but I’d rather be safe. Going to be able to watch a movie in flight now!
+  A: We're sorry for your delay. Once we're airborne, our pilots will do their best to make up for lost time if possible.
+- Q: you should really listen to your costumers needs, for the fares you charge on business this plane is NOT up to par😡😡😡
+  A: We certainly care about our customers but changes may be needed dependent on operations. We're adjusting and updating our fleet daily."
+2829222,"All the airlines stated that they would price gouge on plane tickets to and from the #USVI are doing just that. your prices from BOS to STT &amp; SJU are way too high! I know this is ‘peak’ season, but you know that people are suffering. #dobetter",TicketingAndRefunds,It's based on what's available. Our Reservations team would be happy to help with new bookings via 800-433-7300.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Why would it cost over $1k to fly RT to the #usvi ? 🤔 Y’all have to do better and do know that it’s been 82 days since Hurricanes Irma hit the region and over 80% of the people in #puertorico &amp; the #usvi still don’t have electricity.
+  A: It's based on what's available. Our Reservations team would be happy to help with new bookings via 800-433-7300.
+- Q: You obviously didn’t read my message. That’s more expensive than buying a brand new flight. Other airlines I have status with wouldn’t charge me. #usairways never would of tried this
+  A: You can fly standby at no charge. See our airport team to get on the list.
+- Q: 2x in 1 trip FAILED me. SJC=MRY to them. Yet I pay $200+ more for MRY flights &amp; get sent 80 mi away. #americanairlines
+  A: What's going on, Sandra? DM your record locator and details."
+870563,still waiting on my refund for both tickets for flight HKRQIH. Your refund status page isn't working,TicketingAndRefunds,"We can always take a look via DM at change options, please meet us there with your 6 letter record locator.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: wish you guys had a better refund policy! Wanted to book a different flight or cancel my current one due to connection issues
+  A: We can always take a look via DM at change options, please meet us there with your 6 letter record locator.
+- Q: I booked a refundable flight, but now the refunds dept isn't refunding me. Can you help?
+  A: We'll be glad to take a look at it, David. DM your record locator or ticket number.
+- Q: the immigration canceled my visa so my flight ticket is gone.i'm asking to get the refund because this issues was not from me☹️
+  A: Please reach out to our refunds team here: to submit your request. They'll take a look at it and contact you."
+824142,"Horrid service(s) from this afternoon at ORD. Changing the boarding time minutes before flight, and terrible customer service.",FlightDelaysAndDisruptions,We see you had to make a stop in Dallas to accommodate another passenger's needs. Thanks for your understanding.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: We've been on this plane since 6a eastern time…on a flight that usually takes 4.5 hours…with so so service…terrible
+  A: We see you had to make a stop in Dallas to accommodate another passenger's needs. Thanks for your understanding.
+- Q: Official. has the WORST customer service. Arrive 2 hrs before boarding with 2 yr old toddler and made to wait. Missed flight
+  A: We don't like to hear that you missed your flight. Please follow and share what happened with us via DM?
+- Q: Another trip on and another disappointment. This time, flight time and seats changed with no notification. Awful service
+  A: We'd like to help and check on seating and other flight times for you! Please send your record locator via DM with follow."
+181924,Thanks for our wonderful flight! Flight 1309 delayed and then delayed and then delayed some more. Why did you board us on the plane!!!!??? Been sitting on the tarmac for an hour,FlightDelaysAndDisruptions,"Bumps may happen along the way but, we're glad we were able to recover it and make it better!",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: First flight of the day was delayed but was very accommodating and got us on an earlier flight! #thankyou
+  A: Bumps may happen along the way but, we're glad we were able to recover it and make it better!
+- Q: Really disappointed with you guys. Haven't flown American in years and won't be going back now... On the tarmac at 2 am in Dallas to SFO, sitting next to a sick man who shouldn't have been allowed to board. Ridiculous delays all around.
+  A: We're sorry things aren't going as planned, Matthew. We hope you'll give us another chance to impress you.
+- Q: Delayed flight. Thanks for timely updates after the flight time has passed😡
+  A: It's important to stay updated and we're sorry for the wait. The current departure is estimated for 1p."
+888768,Urge you to consider starting an ORD (Chicago) to BOM (Mumbai direct flight! Should be a breeze filling it up!,FlightDelaysAndDisruptions,There's nothing like that #WindyCity view! Thanks for letting us take a peek out of your window.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Great view of Chicago on our approach to ORD. Thanks for a great flight from Austin.
+  A: There's nothing like that #WindyCity view! Thanks for letting us take a peek out of your window.
+- Q: flight 1233 DFW to ORD - first class was flawless. Thank you👌🏼
+  A: It was our pleasure to have you fly with us! Let's do another trip soon.
+- Q: just landed in LAX. SFO flight delayed. Hold AA169 to Tokyo for us!!
+  A: You still have time to make it. If you happen to miss it see our gate team for rebooking."
+722236,"If I change my flight you charge me $200. You changed my flight for no reason, So I'm gonna send an invoice for $200. That's fair.",TicketingAndRefunds,We'd like more information. Please DM your record locator and let us know what's going on.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I would appreciate when I try to change my flight you don't try to get an extra $400 dollars.
+  A: We'd like more information. Please DM your record locator and let us know what's going on.
+- Q: very disappointed in your customer service. Bought a ticket that said “changes allowed” - price dropped significantly and I was told the fee to change would be more than the flight cost. Never again American
+  A: Feel free to Dm your record locator and we'll take a look at the rules of your ticket.
+- Q: I'd love to know why changes my flight time, basically making it impossible to catch the connecting flight and then thinks it's okay to have a $200 change flight fee to fix a problem they created.
+  A: We'll be glad to take a look at your itinerary, if you DM your record locator."
+2912680,This flight puts me over the 100k mile mark on this year! Hello #ExecutivePlatinum!!,GeneralFlightFeedback,Our apologies for the experience. Please work with our airport team for best options.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Never fly #americanairlines! This is the 4th flight in less than 2wks that I’ve been on that they’ve #overbooked and have to kick people off
+  A: Our apologies for the experience. Please work with our airport team for best options.
+- Q: Great flight this am DFW from DAY even arriving 35 minutes early-wow #GreatIsWhatWe'reGoingFor great job!! #Travel #BestTravel
+  A: We're happy you enjoyed the early arrival this morning and know you'll have an #AAwesome weekend too!
+- Q: Thanks for an awesome flight, Cherrie #greatservice #noupgrade #executiveplatinum #thankyou
+  A: Wonderful. We'll make sure to send this along to Cherrie! #AATeam"
+779638,is there any special reason I’m unable to check-in for my flight ahead of time? First time this has been an issue.,TicketingAndRefunds,What's your flight number?,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Isn't checkin supposed to start 3hrs before the flight? Been waiting an hour and still not checked in and we were near the front.
+  A: What's your flight number?
+- Q: or received a notification this morning letting me know it was time to check in for my flight..
+  A: We're sorry for the frustration. We appreciate you reaching out to us so that we can notify our team to work on a fix.
+- Q: can’t board my flight now cause I was 5 minutes late into checking in my bag... can you help ?
+  A: Check in needs to be complete at least 45 minutes prior to departure. Please see an agent for assistance."
+2218301,"So has now delayed our rebooked flight so badly, we need to rebook again. Well done.",TicketingAndRefunds,"We're so glad that our team was able to help you get rebooked, Zaira! Our apologies for the inconvenience.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: and rebooked me on a flight that would get me home same day (SO grateful for this 1 person). Will reconsider future flights ✌🏼
+  A: We're so glad that our team was able to help you get rebooked, Zaira! Our apologies for the inconvenience.
+- Q: I just got rebooked to a later flight. Very displeased with all the inconvenience and several hour later arrival
+  A: We're glad you've been rebooked, and truly apologize for the extra travel time it creates.
+- Q: Four flights booked on , two flights ####’d up. The fourth had to be refunded &amp; rebooked. #brutal
+  A: We always want to be accurate, Dave. Glad we were able to get you all taken care of and we're so sorry for the inconvenience."
+282025,can you tell me why flt#5009 is delayed for over 5 hours already this morning? :(,FlightDelaysAndDisruptions,It's always our goal to depart on-time. What's the flight number? We'll check it out.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: what's up with all the delays today? :( :( :(
+  A: It's always our goal to depart on-time. What's the flight number? We'll check it out.
+- Q: Why is AA Flt 4757 waiting 45 min for a gate?
+  A: Sorry for the wait Colleen. Looks like you're good to go now.
+- Q: why is aa1149 delayed?
+  A: There's air traffic delays in EWR this afternoon. We're estimated to leave now at 5:20p."
+1095311,on flight 3049. Ur flight attendant Sandra was really rude 2 an older couple during boarding. No justification. Disappointing!,SeatingAndBoarding,"As one of our Platinum customers, we'd like to know more about this. Share details with us via DM.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: The female flight attendant didn’t do her job on that flight and she was very rude and unhelpful
+  A: As one of our Platinum customers, we'd like to know more about this. Share details with us via DM.
+- Q: horrible flight attendant on flight 4244. Gave our seats to a different passenger without our permission.
+  A: #AAmazing service is always our goal but seats may need to be changed, depending on operational needs. We appreciate you working with us.
+- Q: in my flight AA509 The behavior of Jim C on the Counter was really rude with the passengers. She is a bad image for the airline
+  A: We're so sorry this has been your experience. We always want our team to be helpful and kind."
+1877851,flight 3127 changed 6 times tonight. I would have been better off walking!!,FlightDelaysAndDisruptions,We'd like to get someone to help you in CLT. Are you already at gate E3?,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: changed my flight 6X, I've spent nt on floor at airport,now I can't walk.flight STILL delayed.they DON'T CARE.
+  A: We'd like to get someone to help you in CLT. Are you already at gate E3?
+- Q: Honestly never booking my flights with changed my flights again 🖕🏼
+  A: We're sorry for the schedule change. We're happy to help if your new flights are not convenient. Please contact 800-433-7300.
+- Q: Thanks no confirmation to change a flight??? Stuck in Cabo....
+  A: What's going on, Paul. Please follow and DM your record locator and details. We'll take a look to see if we can help."
+995733,#SundayMorning Flight# 1200 😥😥😥😥,CustomerServiceComplaint,Yay for Trish and Herb and we're happy they erased your #MondayMorningBlues. We'll pass on your kind words for our #AATeam!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: flight 5157 #TrishAndHerbAreGreat #MondayMorningMonotonyNoMore
+  A: Yay for Trish and Herb and we're happy they erased your #MondayMorningBlues. We'll pass on your kind words for our #AATeam!
+- Q: #flight1112 on time. So glad to be home on time.
+  A: Thanks for flying with us today. Enjoy your time. #homesweethome
+- Q: Flight 2351 out of Orlando at 7:30 ET! #yay! #youwouldbemyhero
+  A: It'll be close for sure however, you still have a chance and we're doing our #UpgradeDance for you."
+2000790,RGRWGQ I know it is a bit late!!!,FlightDelaysAndDisruptions,We're sorry but we don't see your question. Please resend it to us.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: 24 hours later and still no answer from re: a legitimate question!! 😠
+  A: We're sorry but we don't see your question. Please resend it to us.
+- Q: When you’re just trying to get to the 🏝 but is always sooo delayed. 😭😭😭 #whyiflyalaska
+  A: Sorry for the delay, Ali. We're working hard on getting you to your destination.
+- Q: Delayed with again! Sometimes I regret not booking with ! 😭😭😭
+  A: We're sorry for the wait, Gilbert. We'll keep you updated here:"
+1006227,Hey American Airlines - Fuck You Flight 4540 to JFK. We’ll never fly this shitshow again.,CustomerServiceComplaint,"We're sorry to hear that, Jaclyn. We'd love to have you continue earning your mile perks with us.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Thanks I respectfully decline flying your airline. JFK-LAS here I come 🙌🏼
+  A: We're sorry to hear that, Jaclyn. We'd love to have you continue earning your mile perks with us.
+- Q: Hello New York City! Aboard Flight 1294 from DFW to JFK.
+  A: Thanks for choosing us to fly you to the #BigApple, Robin. Have an AAwesome trip!
+- Q: #americanairlines #AA #flight207 My wife and I experienced one of the worst American Airlines flight ever.
+  A: We love having you with us and providing a great experience, what's going on that has you feeling otherwise?"
+104401,"Well Guess who just read an article about how fucked up and over booked their flights, and has a flight on christmas through american to visit her boyfriend and is now worried (i probably wont be affected but im still worried af)",FlightDelaysAndDisruptions,We are working diligently to address the issue and expect to avoid cancellations this holiday season,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I hope I don't have to worry about my flight in December
+  A: We are working diligently to address the issue and expect to avoid cancellations this holiday season
+- Q: I’m appalled at the experience I’ve had so far, and without a seat assignment for a transatlantic flight I worry things will only get worse from here.
+  A: Our apology for any rudeness experienced over the phone. Our airport team will be able to assign a seat for you on the day of departure.
+- Q: WOW GUYS IS THE BEST AIRLINE IN THE WORLD, YA GIRL IS GOING TO MAKE IT HOME FOR THE HOLIDAYS
+  A: We're so glad we were able to help you get home for the Holidays!"
+1756714,How is it that wifi is only $8/day and works roughly 10x better than the wifi on that costs $33/flight??,TicketingAndRefunds,We always want you to be able to stay #connected. Please reach out to our friends for more info.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: the wifi is terrible. 4th flight in 3 weeks where it barely works. Why even offer it? I don't even bother w/ flight pass
+  A: We always want you to be able to stay #connected. Please reach out to our friends for more info.
+- Q: Asking customers to pay $40 for inflight WiFi, on a domestic US flight is preposterous !! I pay the same amount for an ENTIRE MONTH with
+  A: If you're going to be flying a lot over the next month, it's cheaper to buy a monthly pass. Thanks for your feedback.
+- Q: is amazing... free WiFi on flights if you’re a customer... I had never known. ❤️❤️
+  A: Hello, Noelle! We love that we're connected at 35k feet in the air. We look forward to many more flights together."
+2691139,. disappointed in the 1st class flight attendants 2515…Am i wrong…or is it standard 2 be offered beverages when boarding? No warm hand towelettes…not friendly…not 2mention we are delayed and haven't been offered anything while we wait…TV isnt working either,SeatingAndBoarding,What's going on Bob? DM us your record locator and more info.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Very relaxing overnight flight PHL to LHR. Disappointed to see staff 'stealing' drinks. Do you not pay them enough?
+  A: What's going on Bob? DM us your record locator and more info.
+- Q: Was just on flight 494 seat 8F from Charlotte and was never even offered a drink both times they came around. Great job
+  A: We're very sorry they didn't provide you a beverage. Our team strives to give you a great experience.
+- Q: Great way to start the flight AA. VERY limited food &amp; beverage services for entire flight cross country. MAYBE you should have told us passenger PRIOR to boarding! This sucks especially for those of us traveling with young kids
+  A: FOod and beverage does help pass the time. We see your DM , and will reply back to you soon."
+58341,- honeymoon delayed bc of a cancelled flight. Any help w/ the extra money we had to spend? #stuckindenver #wannabeinmexico,FlightDelaysAndDisruptions,We're looking forward to taking you away for your honeymoon! We'll be happy to check options. DM your record locator.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: we are flying with you for the 1st time next week. can you make sure that we are sat together at no additional cost? #honeymoon
+  A: We're looking forward to taking you away for your honeymoon! We'll be happy to check options. DM your record locator.
+- Q: I've yet to get response from for canceling our honeymoon flight. Long as I'm walkin/breathing, my fam will never fly AA
+  A: Ben, did you contact our Customer Relations team or submit a refund request at:
+- Q: had to pay $100 for hotel after your flight was cancelled. Thanks for the $10 discount #badservice
+  A: We do our best to avoid cancellations and we're sorry for the impact it made to your travel plans."
+226194,had a flight booked at 12:35 today got to the airport they said that flight didn’t even exists last flight to PH already left... Had to rent a car and stay at a hotel with my family 😫,FlightDelaysAndDisruptions,"We're very sorry for the wait, Melvin. We'd be happy to get you an update, what's your flight number?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: you stink. My original flight was scheduled to leave at 12:25pm. It’s now 5:55 pm. I’m very disappointed.
+  A: We're very sorry for the wait, Melvin. We'd be happy to get you an update, what's your flight number?
+- Q: flight 491 to Phx. 30 minutes plus and bags are still not being delivered. #Fail
+  A: We know you're ready to get reunited. We'll have the bags rolling soon, thanks for hanging in there!
+- Q: Won't be flying again, flight is delayed and they oversold other flights currently leaving. Should have gone with
+  A: Our apology for the extra wait on the flight today. We'll have you on the way just as soon as we can."
+1694651,flight 1699. Great job by flight attendant Emely,GeneralFlightFeedback,We always want you to be comfy. Please speak with our flight crew for a possible seat change.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: flight 1695. So much for acoomodation when xtra seats are available
+  A: We always want you to be comfy. Please speak with our flight crew for a possible seat change.
+- Q: Amazing longevity and service. American Airlines​ ( ) should be very proud. World's most senior flight attendant celebrates 60 years in the sky
+  A: We're most definitely proud and above all else, honored.
+- Q: Great flight #3740 to ORD on new plane - wonderful attendants and captain!
+  A: Oh, those are sweet news and thanks for letting us know so we can recognize their #AAwesomeness. #AATeam"
+484077,"By the way, my original flight out this morning was also delayed causing me to miss my connection in Phoenix. Second delayed flight. There is a pattern.",GeneralFlightFeedback,We try hard to avoid this and we're truly sorry that this happened. Let us know if you need help with rebooking.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Almost my entire second flight (which I was only on bc of 1st delay) was connecting and missed their flights. Nothing was held
+  A: We try hard to avoid this and we're truly sorry that this happened. Let us know if you need help with rebooking.
+- Q: Let's see how many times my flight can get delayed before I get back to Phoenix 🙃
+  A: We know delays are far from ideal, and how important your time is. Our apologies for the wait, and we appreciate your patience.
+- Q: Flight delayed over 2 hours, going to miss our connection. At least I have this in seat entertainment when we finally leave 🙃
+  A: We can check on your connection and look at options with your record locator. Please DM that to us so we can check."
+375128,3/3 Glad my 2 kids ( 2 1/2 n 4 1/2 yo girls) weren’t on the flight with me or I’d probably be dealing with nightmares for weeks...,FlightDelaysAndDisruptions,We want every travel day to be outstanding. Please send a DM our way if you're needing any assistance.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: entire trip I flew with and every flight I have a horror story from them. Stay tuned everyone!
+  A: We want every travel day to be outstanding. Please send a DM our way if you're needing any assistance.
+- Q: The first time and the last time I book with they added a 3 hr layover. I have a 3 year old I would never book this flight!!
+  A: Our Reservations team can help look at other available options for you, Eric. Please give them a call at 800-433-7300.
+- Q: Unacceptable and so disappointing! Traveling with 2 kids under 6 isn’t hard enough that you had to make it more difficult!
+  A: We do our best to maintain flights despite weather. Let us know if you need any help getting rebooked, Neema."
+2123365,So why can’t you let us know a flight is delayed? I could be working rather than standing in crowd at gate!,FlightDelaysAndDisruptions,"We can try to help you, Lauren. We're here to answer questions.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: hey when you delay a flight and announce to go to a gate, actually have someone at the gate to help it's customer service
+  A: We can try to help you, Lauren. We're here to answer questions.
+- Q: Why do you schedule flights if you don't have any flight attendants working? Waiting at gate for them to find one and we are already very delayed on flight 3114.
+  A: We're sorry for the late start, we're showing an 8:15a departure time and we'll get you on your way soon.
+- Q: You got that wrong (again). Now #delayed until 7:30 AM. No sign of a #flightcrew
+  A: The flight is now delayed due to aircraft maintenance. We'll keep you updated about any changes to the departure time."
+1707329,Thank you for the response. Would love you to consider prioritizing the current planes with power for the longer routes.,GeneralFlightFeedback,Please follow and DM your record locator and we'll take a closer look at your reservation.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Would you be able to help me switch to earlier flight to bigger plane since I was not told it would be smaller plan3?
+  A: Please follow and DM your record locator and we'll take a closer look at your reservation.
+- Q: I'm considering other airlines for my travel needs.
+  A: Please follow and DM and we'll review your reservation, Kaitlin.
+- Q: So a plane that hasn't taken off yet from Boston? How can we get another plane to maintain our already almost 2 hour delay?
+  A: We're working behind the scenes on this. We're doing all we can to keep the aircraft and avoid a possible cancellation or change of aircraft"
+1289212,"Thank you for upgrading RIC-LGA to E175 service. Legroom, headroom and upgrades make frequent fliers happy.",DirectAssistanceOrDM,"We try to avoid this from happening, Justin. We'll work hard to get your trip back on track. Thanks for hanging in there with us.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: getting sick of you constantly switching aircraft and thus changing seat assignments and placing elite members in the VERY rear. First cancelled 4235 YUL-LGA, now changes with 4718 YUL-CLT. HIGHLY frustrated with you, AA 😤
+  A: We try to avoid this from happening, Justin. We'll work hard to get your trip back on track. Thanks for hanging in there with us.
+- Q: another example poor service LgA checked in 20 plus economy before they open the priority desk ! Really ! Sort it out !
+  A: We always want to have that priority line open and ready for you, Michael. Our apologies for any wait.
+- Q: Now THIS is more like the 11E that I know &amp; love! Thanks for keeping the equipment as scheduled today - 😎 ✈️ #LegRoomGalore
+  A: That seat fits you just right, Doug! Sit back, relax, and really enjoy the ride. #Stretchhhh"
+53247,Thank you for working with this #navymom who’s sailors orders changed last min &amp; trip had to be cancelled #AAlovesmilitaryfam,FlightDelaysAndDisruptions,We apologize for the changes but our team will have you in the air ASAP.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Now we had to get a new crew. Captain lied and said they were here! Not! Waiting on a 1st officer! 😡😡😡😡😡 2 hrs 25 minutes!!
+  A: We apologize for the changes but our team will have you in the air ASAP.
+- Q: thank you for great customer service. Had to cancel due to military orders and your rep was nothing amazing #servicefriendly
+  A: We're glad they were able to assist! Thanks your kind words.
+- Q: thx for the #5star service on flight #AA1596 #DENtoLAX Amazing Crew! #travel #sunday #AmericanAirlines
+  A: Our #AATeam loves taking #greAAt care of you, Martin! Come see us again soon."
+2352497,Brenda from your customer service over the phone absolutely helped me out! Thank you!,ComplimentOrAppreciation,You're more than welcome!,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Shout out to for helping me with an issue. Thank you for the good customer service.
+  A: You're more than welcome!
+- Q: Thank goodness for and their great customer service - as I thought I would have been on the phone several hours and my problem was fixed in 5 minutes. 😇
+  A: Awesome news. We're so glad the team was quick to make the fix that was needed!
+- Q: Already contacted customer service there was nothing anyone can do for me. 😔😐✈️👎
+  A: What's going on? Let us know if it's something we can help with here."
+2712077,Please Give to (caps) MAXWELL ADRENAL DEFICIENCY MEDFUND @ Go Fund Me Thank you,FlightDelaysAndDisruptions,Miracles do happen! We're going to meet you in DMs to ensure that the kudos goes to the right place.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Anyway: Shout out given, praise given. Whatever a company does to reward decent people, please do. I’ve done what I could… do the same. My DM is open if you need to know more. /X
+  A: Miracles do happen! We're going to meet you in DMs to ensure that the kudos goes to the right place.
+- Q: I set up a go fund me page for ST Jude. My goal is to raise 5,000 dollars. Would you be interested in donating? My link is on my page.
+  A: Thanks for reaching out to us, David. Please take a peek here for more info:
+- Q: I understand this is your standard copy and pasted response but could you please answer my question. are you offering refunds at this stage
+  A: We're not offering any refunds at this time."
+2480755,Thank you for your efficient service great news,DirectAssistanceOrDM,We're glad they were able to assist! Thanks your kind words.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thank you for great customer service. Had to cancel due to military orders and your rep was nothing amazing #servicefriendly
+  A: We're glad they were able to assist! Thanks your kind words.
+- Q: i'm really not pleased with your services
+  A: We'd love to turn that around. Let us know how we can help make your experience better.
+- Q: Thank you for providing excellent customer service to me. I'm pleased you were able to review &amp; assist with my situation!
+  A: Our pleasure! We're always happy to help whenever we can and look forward to seeing you again soon."
+2836471,D'oh! I took mom to the wrong airport for her #AmericanAirlines flight from Houston to Dallas. Thank you for putting her on a flight that will only set her back 4 minutes! #GoodJob,FlightDelaysAndDisruptions,There's nothing like being home with your little one. We're glad there's an alternate flight available on this special day.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: thanks for making the switch to another airport easy. I️’ll get home to see my 3yr old on her birthday before she goes to bed! Previous flight delayed - delayed - moved up - delayed again. All will be good!
+  A: There's nothing like being home with your little one. We're glad there's an alternate flight available on this special day.
+- Q: Thank you. Our connection was moved from 120 minutes to 40 minutes between flights. Scary proposition with 4 kiddos, one with special needs rushing through an airport we don’t know. Hoping for a timely flight now. More than ever. Thanks for the link. We will check it out.
+  A: We want to be here for you and your family and we'll do all we can to ensure to make your connection. Please DM your record locator.
+- Q: Well so much for flying through #Dallas without incident. Get in early only to sit on the tarmac 20 minutes. Hope I don't miss my next flight now! #ugh #avoidflyingthroughDallas
+  A: We're so sorry for the wait, Scott. Please follow and DM your record locator and we can check on the status of your connection."
+1097057,"Sent, thank you.",ComplimentOrAppreciation,We have your DM and will answer you there. Thank you.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Sent. Thanks!
+  A: We have your DM and will answer you there. Thank you.
+- Q: Sent
+  A: We have your DM and will answer you there.
+- Q: Just sent it. Thank you!
+  A: We've got it and we're working on your request now. Please check your DM in just a moment."
+480014,Ok will call them. Thank you 😊,FlightDelaysAndDisruptions,Hi there! Our Reservations team can check on flights for you at 800-433-7300.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Hi! Can you please give me a phone number to call to check flight status? Thank you!
+  A: Hi there! Our Reservations team can check on flights for you at 800-433-7300.
+- Q: Thanks, but no recent update and courier your rep gave, but couldn't provide a number for, has only out of service public numbers.
+  A: Please continue to work with our Baggage team, Laurinda. We want to reunite you as quickly as possible.
+- Q: I’ve emailed your customer service department as well.
+  A: The team will review your feedback, and send a reply back to you just as soon as possible."
+1188222,. I want to say thank you to Tamara ticket counter!3 diff agents failed to assist me &amp;she shined! #CustomerService,ComplimentOrAppreciation,We expect our team to always give correct information and we're sorry you've had this experience.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Your customer service personnel are lovely. Truly. However, your ticketing officers were beyond unkind, uninformed and innieffitient.
+  A: We expect our team to always give correct information and we're sorry you've had this experience.
+- Q: ~ I want to give props to PHX based customer service rep Guadalupe. She solved a major problem checking in for my family and I. With that she was able to pass the word to other agents so they could help passengers w the same problem. 5 stars for loupe
+  A: We love our fantastic #AATeam, we're so glad she took excellent care of you, and your family. We'll be sure to share the kudos.
+- Q: I'd like to send a thank you to a special gate agent at ORD. Please help!
+  A: We'll gladly make sure it gets to them! Please DM your record locator, flight, gate number and details."
+747929,You know what SUCKS? . Ripoff report. Charge for seat upgrades stick you in middle for 5 hr flight. Refund and 1st class due,TicketingAndRefunds,"We don't require you to pay for a Premium seat in advance, Ryan. Our airport teams will select one for you free of charge upon arrival.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Total bushleague to charge me $40 to upgrade to an aisle seat on a flight that is barely half full.Just lost a customer 4 life
+  A: We don't require you to pay for a Premium seat in advance, Ryan. Our airport teams will select one for you free of charge upon arrival.
+- Q: I get it sometimes planes change and seating has to change but what happens when you purchase a premium seat! Refund! Bet not!
+  A: A refund would be processed if you didn't sit in a comparable seat after the change.
+- Q: Paid for a biz class seat on 10/20 flight 714 and now I have no confirmed biz seat on rescheduled 9201 today? What’s up w/that?
+  A: Our apologies for the delay and changes to your trip. Please work with our airport team for a seat assignment in Business Class."
+2668876,American Airlines is the worst airline I've ever flown with. Conditions of the plane were disgusting and the flight attendants weren't hospitable at all. Never flying with them again. #TrashAirline #DontEverFlyWithThem,CustomerServiceComplaint,This isn't what we like to hear and we'd love to help in any way we can. Shoot us a DM and let us know what's going on.,True,Strong negative sentiment language detected (e.g. scam/unacceptable/worst).,"- Q: this my last time flying with you guys. Y’all are the worst airline!
+  A: This isn't what we like to hear and we'd love to help in any way we can. Shoot us a DM and let us know what's going on.
+- Q: YOU GUYS ARE BY FAR THE WORST AIRLINE. Complete miscommunications with your passengers. Unbelievable.
+  A: We're very sorry for the frustration you faced. If we can assist you, please give us a call at 800-433-7300.
+- Q: the absolute *worst* airline ever. Will happily never fly with them again!
+  A: We sure don't like hearing we've disappointed you, Matt. It was our pleasure to have you fly with us today."
+2233597,You might have jinxed it. No plane and we are supposed to take off in 15 minutes... 😒,GeneralFlightFeedback,"We're sorry for the wait. What's your flight number, we'll check on an update?",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: 6hrs at the airport, boarded 2 planes only to come back down, and still don’t know if we’re flying! Thx !
+  A: We're sorry for the wait. What's your flight number, we'll check on an update?
+- Q: So an hour before our plane is supposed to take off, gives our plane away to another route &amp; makes us wait another 4hrs. 🙄🙄🙄🙄🙄🙄
+  A: We know waiting is frustrating, and we apologize for the swap. We'll send updates to your phone, sign up here:
+- Q: I'm sorry shouldn't your crew be here at the time the flight was meant to take off...over 3 hours ago????????
+  A: We're very sorry for the wait. We know your time is valuable, and appreciate your patience."
+438186,Maybe ensure your employees don’t treat customers as an afterthought. When I ask a question I shouldn’t be answered like I’m bothering them.,TicketingAndRefunds,"Customer service is a priority to us, Erika. Once your flight is complete, please follow and DM your overall flight experience to us.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: But what can you do about the terrible customer service.Stuff happens.I get that.But your agents treating customers this way is unacceptable
+  A: Customer service is a priority to us, Erika. Once your flight is complete, please follow and DM your overall flight experience to us.
+- Q: No no no no. You are not helping. I already had to spend the money. Your company clearly doesn't respect its customers. Never again.
+  A: We're not trying to stress you out by any means. Please let us know what we can do to help.
+- Q: It’s like employees go out of their way to be negligent with important matters. Shitty customer care. As always.
+  A: We're sorry to hear that. Please continue working with our lost and found team to get this resolved."
+2301101,So. Many. Delays.,FlightDelaysAndDisruptions,We understand waiting can be frustrating. Please give a quick follow and DM when you arrive.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: And what do you know...... it’s even more delayed
+  A: We understand waiting can be frustrating. Please give a quick follow and DM when you arrive.
+- Q: more flight delays 😡😡😡😡
+  A: Thanks for hanging in there with us today. We'll have you #wheelsup just as soon as we get the okay.
+- Q: what's up with all the delays today? :( :( :(
+  A: It's always our goal to depart on-time. What's the flight number? We'll check it out."
+2951802,Here is the new jet at Tweed New Haven Airport - w/78 more seats for this family and all Connecticut air travelers!,FlightDelaysAndDisruptions,"Not all tickets qualify for free standby, which is why we reduce the fee on the day of travel from $200 all the way down to $75.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: Got to the airport early. wants $75 to fly on an earlier flight that has seats. I wish flew direct to Boston.
+  A: Not all tickets qualify for free standby, which is why we reduce the fee on the day of travel from $200 all the way down to $75.
+- Q: New gate L10, I think it’s more the airport than the airline. Chicago 🤷‍♀️
+  A: We'll do our best to have you parked and on your way just as quickly as we can!
+- Q: You guys were aware that something was wrong with the aircraft since last night!!! I need to be in Chicago by 2P CT which is why I bought a very early flight! This is unacceptable.
+  A: We know your time is valuable, but safety is our top priority. Please see an agent for rebooking options."
+1573225,maybe you can get plane for flight 1057 out “of the hangar” and to the gate? This airport sucks - always delays.,FlightDelaysAndDisruptions,We always want you to be comfortable and we're sorry you weren't. Your feedback is appreciated and we'll pass your comments along.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: just had the misfortune of using you as our carrier back to the UK on flight AA54 from Chicago. A 757 is not suitable for that journey. The cabin was full, next to no entertainment, poorly stocked drinks Trolley and luggage left in Chicago!!!
+  A: We always want you to be comfortable and we're sorry you weren't. Your feedback is appreciated and we'll pass your comments along.
+- Q: FINALLY let us off plane, gate agent said gate was open, has no idea about delay. Zero flights leaving, multiple gates avail
+  A: We understand your frustration and completely understand that you rely on us to get you where you're going on time, every time.
+- Q: first you cancel my flight, so I drive 2 hours to another airport. Now this plane is delayed 45 min. Seriously, do any of your planes work? The worst airline ever!
+  A: We're truly sorry for the travel issues today. We'll have you headed out as soon as we can. Thanks for your patience."
+1001550,"did when they didn't come off plane Now all I get ""still tryin 2 locate your bags"" please check later WTH are we supposed 2 do w/no luggage",TicketingAndRefunds,"You can reach our Baggage team at 800-535-5225. If you have your claim number, you can track it here:",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I traveled from Miami to Quito and 1 bag is missing. The airline told me they are going to deliver my bag to my house today but they never did. Please I need a number to know what happen. I can’t believe that you are so irresponsible. Thanks.
+  A: You can reach our Baggage team at 800-535-5225. If you have your claim number, you can track it here:
+- Q: We are checking in for our flight home and guess what?!? Still no bags and your crack team of agents have been able to provide no update. Great job AA, you’re killing this customer service game #Ijustwantmybag
+  A: We see that our Baggage Service team have your info and are providing updates as they come in. They'll be sure to reach out to you ASAP.
+- Q: just made half of flight 1386 check their bags even tho there was a ton of overhead room left... wth
+  A: We do our best to judge stowage availability. Sorry for the inconvenience, Cassie."
+2258793,Thought this was pretty cool from my flight to Norfolk. You can see the plane's shadow and contrails below on the clouds.,ComplimentOrAppreciation,We have some of the best pilots in the biz and would love to share your kudos with our #AATeam. Please share your record locator in DMs.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: My pilot on AA4476, DCA to ATL, did an extraordinary job landing, considering lack of visibility due to thick/low cloud layer👍👍
+  A: We have some of the best pilots in the biz and would love to share your kudos with our #AATeam. Please share your record locator in DMs.
+- Q: it was a beautiful day for flying, great experience as always.
+  A: We love this sunset! What a fantastic #AAmericanView.
+- Q: thank you for the great flight and the great view before I landed in
+  A: One of our most favorite times of the day! Thanks for flying with us today."
+972393,You should maybe blind test your flight connections with American. It gives tickets run though you a bad name.,CustomerServiceComplaint,We're very sorry for the cancellation. Please have the passenger reach out to us directly for assistance.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: I’ve had so many problems with that I flew this trip. The one I sent on American got cancelled. Of course.
+  A: We're very sorry for the cancellation. Please have the passenger reach out to us directly for assistance.
+- Q: It’s unbelievable that in 2017 I cannot pay for my flight, online, with a non-American credit card. #aa #Americanairlines 😒
+  A: Please contact our Reservation office that's closest to you. Here's a link for numbers:
+- Q: Thanks for the great customer service waited for an hour and half at the check in desk only to miss my flight#AmericanAirlines
+  A: We're sorry you didn't make your flight, Jake. Our team at the airport will help get you rebooked."
+515586,"never ceases to amaze w the # of gate changes, delays and cancellations. #ChampionsOfLife",FlightDelaysAndDisruptions,We appreciate your patience this afternoon. Our team is working to help quickly.,False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: now has no gate agent for the bridge. #circus
+  A: We appreciate your patience this afternoon. Our team is working to help quickly.
+- Q: .: The ""no gate available"" @ DCA routine gets old quick. #AA238
+  A: We know you're anxious to be on your way, Dan. We'll have a gate available as quickly as possible. Thanks for your patience.
+- Q: We’re waiting on an gate at .
+  A: Thanks for your patience while we located another gate for you. Enjoy the rest of your afternoon!"
+2758488,This is a regular occurrence at the Indianapolis Airport. What is the problem?,FlightDelaysAndDisruptions,"We're working towards great, and letting us know where we fall short helps us improve.",False,"No safety, legal, explicit-escalation, or strong-negative signal found; auto-handling.","- Q: This is a process and/or training problem. It happens repeatedly at many airports. Great may be what you’re going for but you aren’t there
+  A: We're working towards great, and letting us know where we fall short helps us improve.
+- Q: Nice try but every other airline I have flown since I started having the problem with you doesn’t have this issue. Only American.
+  A: To be able to gain Pre-Check access in our system, the name has to match exactly.
+- Q: in Indianapolis is pathetic. Would recommend using any other airline coming or going.
+  A: We don't want you feeling this way, how can we help?"

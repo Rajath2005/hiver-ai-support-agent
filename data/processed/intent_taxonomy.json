@@ -1,0 +1,170 @@
+{
+  "0": {
+    "suggested_name": "CustomerServiceComplaint",
+    "size": 608,
+    "top_keywords": [
+      "customer",
+      "service",
+      "just",
+      "people",
+      "like",
+      "help",
+      "gate",
+      "time"
+    ],
+    "example_texts": [
+      "I have, that's who gave me the $300. Not holding my breath",
+      "Bins not buns!",
+      "They said sorry.",
+      "I was mistaken as Jared Letto TWICE today by strangers and still won't bump me up to first class.",
+      "In this situation you have failed me."
+    ]
+  },
+  "1": {
+    "suggested_name": "GeneralFlightFeedback",
+    "size": 950,
+    "top_keywords": [
+      "flight",
+      "fly",
+      "flying",
+      "great",
+      "thanks",
+      "plane",
+      "airline",
+      "flights"
+    ],
+    "example_texts": [
+      "That made my wife chuckle, but anything you can do to find out what the story with our flight is?",
+      "Just spoke to a passenger who is now missing his mothers funeral tomorrow..... that's something he will never get back unlike the stupid engagement ring. #aa104",
+      "What what - the last time I took an international flight with you, I had no power outlet. Look at you now. #DFWtoCDG #fancy",
+      "worst part is, y'all are like whatevs. No biggie. You can sit in the airport for another 6 hours. No biggie.",
+      "I've yet to get response from for canceling our honeymoon flight. Long as I'm walkin/breathing, my fam will never fly AA"
+    ]
+  },
+  "2": {
+    "suggested_name": "SeatingAndBoarding",
+    "size": 430,
+    "top_keywords": [
+      "seat",
+      "flight",
+      "seats",
+      "plane",
+      "boarding",
+      "just",
+      "passengers",
+      "gate"
+    ],
+    "example_texts": [
+      ". disappointed in the 1st class flight attendants 2515\u2026Am i wrong\u2026or is it standard 2 be offered beverages when boarding? No warm hand towelettes\u2026not friendly\u2026not 2mention we are delayed and haven't been offered anything while we wait\u2026TV isnt working either",
+      "Save a seat in there for me in a few years, and !",
+      "So even if the exit row seat is unoccupied, you still want to charge an extra $79 for it? Nice policy",
+      "Whats the point in paying 4 preferred seat if I cant board earlier seated near the front 4 convenience but my bag is in back",
+      "I can't keep having y'all lose carseats when I fly every 3 months or more."
+    ]
+  },
+  "3": {
+    "suggested_name": "FlightDelaysAndDisruptions",
+    "size": 827,
+    "top_keywords": [
+      "flight",
+      "delayed",
+      "gate",
+      "time",
+      "plane",
+      "hour",
+      "hours",
+      "delay"
+    ],
+    "example_texts": [
+      "you are killing me! Both of my flights had me running to my connecting flight. You should fix your scheduling.",
+      "thanks for making up for the delays!! I\u2019ll definitely be using those advantage miles!",
+      "missed connection, now on rebooked flight and delayed hour + because of an I-Pad issue and no spare, Not the AA I once knew.",
+      "Nice. I only have 4 flights scheduled those dates \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+      "Another trip on and another disappointment. This time, flight time and seats changed with no notification. Awful service"
+    ]
+  },
+  "4": {
+    "suggested_name": "DirectAssistanceOrDM",
+    "size": 545,
+    "top_keywords": [
+      "help",
+      "thanks",
+      "just",
+      "thank",
+      "number",
+      "sent",
+      "service",
+      "need"
+    ],
+    "example_texts": [
+      "I've tried called it and from abroad (on ) I cannot. Just trying to find a non-800, US number, I'm sure one exists! I don't want to have to call a country office just because I'm traveling",
+      "Just did. Thanks",
+      "I know I'm just frustrated because I know the last place I had my wallet was on my flight fro LAX to PDX. Thank you for your help. I just cant get a new debit card tomorrow because my bank is out of state. I apologize again for my frustration",
+      "I have sent u the details via DM",
+      "*722, not 772"
+    ]
+  },
+  "5": {
+    "suggested_name": "BaggageIssue",
+    "size": 405,
+    "top_keywords": [
+      "bag",
+      "bags",
+      "baggage",
+      "flight",
+      "check",
+      "luggage",
+      "checked",
+      "just"
+    ],
+    "example_texts": [
+      "I have emailed left messages tweeted my luggage wasn't cheap I have complained for months now very disappointed I think it's unfair what your staff did I feel like it was done intentionally",
+      "And the light bulbs are out by carousel 3 and everyone was told bags would be on number 2 \u2014 only to move to 3 by chance in the dark. Really?",
+      "Wow I\u2019m hot lost my bag \ud83d\ude21",
+      "why hasn\u2019t the luggage carousel moved an inch since flight 1037 from Newark arrived 50 minutes ago???? #wheresourbags",
+      "Waiting for the bag made me check even though there was tons of overhead space. I can remember when flying was fun."
+    ]
+  },
+  "6": {
+    "suggested_name": "ComplimentOrAppreciation",
+    "size": 701,
+    "top_keywords": [
+      "thanks",
+      "thank",
+      "great",
+      "home",
+      "day",
+      "&amp;",
+      "today",
+      "just"
+    ],
+    "example_texts": [
+      "Thank you for this edition of American Way. It was a great article. \ud83d\ude02 \u2661",
+      "you both have the best cookies, but it's not helping my keto life style. Seriously amazing cookies",
+      "I loved in The Walking Dead and she's the lead of as First Officer! Great story",
+      "Great day in Chicago headed home on",
+      "24 hours later and still no answer from re: a legitimate question!! \ud83d\ude20"
+    ]
+  },
+  "7": {
+    "suggested_name": "TicketingAndRefunds",
+    "size": 534,
+    "top_keywords": [
+      "flight",
+      "just",
+      "ticket",
+      "flights",
+      "service",
+      "change",
+      "pay",
+      "customer"
+    ],
+    "example_texts": [
+      "When you call #AmericanAirlines to just asked how much it would potentially cost to go home two days earlier and the lady tells you a number you could definitely book a new roundtrip to the Bahamas for next week with...",
+      "You obviously didn\u2019t read my message. That\u2019s more expensive than buying a brand new flight. Other airlines I have status with wouldn\u2019t charge me. #usairways never would of tried this",
+      "My son was travelling and his wife had a seizure he had to deal with. Was told $200 cancellation. A credit for cancel was more appropriate.",
+      "well now i am told the ticket cost is an additional $200/person to pay....because of the wait....omg",
+      "What about flights that are 500 miles or less? Are they complimentary?"
+    ]
+  }
+}

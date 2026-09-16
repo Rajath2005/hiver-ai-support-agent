@@ -1,0 +1,170 @@
+{
+  "0": {
+    "suggested_name": "FlightStatusOrDelay",
+    "size": 41,
+    "top_keywords": [
+      "customer",
+      "service",
+      "customers",
+      "just",
+      "make",
+      "don\u2019t",
+      "right",
+      "help"
+    ],
+    "example_texts": [
+      "are you kidding me ???? That's exactly team I contacted the Customer Relations team. Shit service and minimal compensation for being trapped in Rio for three days due to the A-Airbus electronic fault not to mention that I lost over 1200 USD for my hotel.",
+      "Apparently doesn\u2019t respond to tweets either. Horrible service!!!",
+      "honesty is the best policy when dealing with customers #bagfitseveryotherday #behonest #beconsistent",
+      "unbelievable...u ban customers for complaints...WOW",
+      "Maybe ensure your employees don\u2019t treat customers as an afterthought. When I ask a question I shouldn\u2019t be answered like I\u2019m bothering them."
+    ]
+  },
+  "1": {
+    "suggested_name": "Rebooking",
+    "size": 53,
+    "top_keywords": [
+      "flight",
+      "just",
+      "tickets",
+      "american",
+      "airlines",
+      "charge",
+      "$200",
+      "customer"
+    ],
+    "example_texts": [
+      "Then please cover the cost to have my award flight be completed with British Airways on the original dates I purchased.",
+      "Good morning and happy Thanksgiving! We are looking to purchase tickets and have a question regarding seat selection. May I PM you please?",
+      "WTF????? So you\u2019re just gonna trash this flight?! This is the #dumbest #wasteoftime where is my travel voucher????",
+      ", Flight 1536 LAX-Den just told passengers (including my stupid expensive First Class ticket) to go purchase food and drinks for",
+      "LOL, American Airlines gave every single pilot vacation for Christmas! That's going to be a fun mess to clean up. Beware if you are flying next month... #Airlines #Travel #Travelwoes"
+    ]
+  },
+  "2": {
+    "suggested_name": "RefundOrCancellation",
+    "size": 78,
+    "top_keywords": [
+      "flight",
+      "great",
+      "thanks",
+      "gate",
+      "thank",
+      "service",
+      "flights",
+      "crew"
+    ],
+    "example_texts": [
+      "Thanks gate agent Ananda @ MSN for the \u201cGoing for great\u201d work to try and keep me connecting with delayed flights. #AA spirit shining brightly!",
+      "Officially stranded in #Chicago. But with views like this even I can't be too mad ... but imma need my hotel reimbursed - stat.",
+      ", just wanted to thank your crew on flight 0045 from CDG-JFK on 11/2 for a job well done, captain and crew were top.",
+      "Great job now serving stale food to the passengers :(",
+      "Huge thanks to the amazing #CustomerService team &amp; their ability to return my #sony a6300 after I left it on a #LAX flight!"
+    ]
+  },
+  "3": {
+    "suggested_name": "BaggageIssue",
+    "size": 35,
+    "top_keywords": [
+      "bag",
+      "bags",
+      "check",
+      "flight",
+      "baggage",
+      "carry",
+      "lost",
+      "luggage"
+    ],
+    "example_texts": [
+      "why is this not a carry on? #becauseimawoman ? Men didn\u2019t have any problem-ex: my husband Explain that. Gregorio Nunez to blame",
+      "Also, to be clear, there was no mistaken lack of communication. Your gate crew told the flight attendants \u201cwe don\u2019t have to tell them we took their bags off\u201d &amp; they closed the door and off we went. #NoCustomerService",
+      "That really doesn\u2019t address my question. If I have damage (or notice it) at a 24 hour mark or the 40 hour mark, what changes about the damage or my ability to prove that I was on the flight/had baggage damaged?",
+      "I\u2019m on day 3 of my trip in Europe and my bag is still lost @ ORD. I need help locating my luggage!!!",
+      "Assume that you\u2019d didn\u2019t get the extra 140 characters yet to say... so here\u2019s 10,000 airmiles and gold status to make up for it"
+    ]
+  },
+  "4": {
+    "suggested_name": "Complaint",
+    "size": 67,
+    "top_keywords": [
+      "thanks",
+      "thank",
+      "&amp;",
+      "today",
+      "say",
+      "home",
+      "want",
+      "help"
+    ],
+    "example_texts": [
+      "Mother &amp; Son trip to Costa Rica!!! Thanks for the upgrade!",
+      "Y\u2019all really pissing me off today",
+      "Sent, thank you.",
+      ". I want to say thank you to Tamara ticket counter!3 diff agents failed to assist me &amp;she shined! #CustomerService",
+      "Thanks"
+    ]
+  },
+  "5": {
+    "suggested_name": "AccountBookingHelp",
+    "size": 62,
+    "top_keywords": [
+      "flight",
+      "like",
+      "seats",
+      "fly",
+      "seat",
+      "airline",
+      "airlines",
+      "flying"
+    ],
+    "example_texts": [
+      "Hey American Airlines - Fuck You Flight 4540 to JFK. We\u2019ll never fly this shitshow again.",
+      "flight people at the gate or not communicating to the gate area passengers",
+      "This is a regular occurrence at the Indianapolis Airport. What is the problem?",
+      "also like to commend the wonderful landing. I think I compressed two vertebrae in my neck on that one. #learningtofly",
+      "when the pilot was slowing plane down on runway!! The seats were hard and uncomfortable and no TVs!!"
+    ]
+  },
+  "6": {
+    "suggested_name": "ComplimentOrOther",
+    "size": 65,
+    "top_keywords": [
+      "i\u2019m",
+      "help",
+      "gate",
+      "terminal",
+      "delay",
+      "time",
+      "it\u2019s",
+      "thanks"
+    ],
+    "example_texts": [
+      "I\u2019m tired of calling. I\u2019m tired of being told \u201cit was processed, so it\u2019s not OUR problem.\u201d",
+      "forever having issues man! \ud83d\ude24\ud83d\ude24\ud83d\ude24",
+      "TIL terminals 1 and 2 at SFO are connected airside. And has ONE gate at the very end of terminal 1. Thanks for the long walk gate-manager-guy!",
+      "And it's absolutely useless info.",
+      "I DM\u2019d my record locator. Been in the Rebooking line at MIA over 2 hours."
+    ]
+  },
+  "7": {
+    "suggested_name": "Miscellaneous",
+    "size": 99,
+    "top_keywords": [
+      "flight",
+      "delayed",
+      "hour",
+      "time",
+      "gate",
+      "plane",
+      "miss",
+      "just"
+    ],
+    "example_texts": [
+      "your inflight WiFi is literally unusable on most of your major routes. Completely ridiculous",
+      "we're over 30 minutes late boarding AA 69 and gate agents haven't given any updates. What's the story?",
+      "Our flight time has been changed nine times today. NINE. If we miss our flight to Barcelona...",
+      "I won't be. I had to wait after you decided to add a 7 hour layover to my flight now I've spent over an hour waiting to get off after landing. You're the worst airline out there.",
+      "flight 3820 needs an agent to unload and reload our flight please at CMH."
+    ]
+  }
+}

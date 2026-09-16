@@ -1,0 +1,111 @@
+row_id,customer_tweet_id,customer_text_clean,generated_reply,retrieved_context,grounding,correctness,tone,rationale,scored_by
+0,286482,I put my KTN on my reservation and checked in but no precheck. Can you help please? ORD-EWR today,"Please give us a call at 800-433-7300, we'll be happy to assist!","- Q: Can you help me with a reservation please? App says I'm ticketed, website says no rez at all. My KTN isn't applied to rez so not getting pre-check.
+  A: Please give us a call at 800-433-7300, we'll be happy to assist!
+- Q: I recently booked two trips and forgot to apply my KTN to the reservatio",4,4,4,Grounding: Reply shares 9 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+1,724067,No. They don’t,We've been working with our team and would like to provide you with an update Vilissa. Please meet us in DM so we can give you more info.,"- Q: They do. How you abandon a chair at the jet bridge is beyond me. I’m glad this happened at a city where I know folks.
+  A: We've been working with our team and would like to provide you with an update Vilissa. Please meet us in DM so we can give you more info.
+- Q: Hmmm they did on my last flig",4,4,4,Grounding: Reply shares 25 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+2,727007,really rough experience today with flight #2309 wondering if you could help?,We're sorry to hear that Carolina. We always want you to have a great experience with us.,"- Q: Unfortunately, I hadn't a good flight w yesterday, delayed, mechanical issues and without entertainment a long and bored flight
+  A: We're sorry to hear that Carolina. We always want you to have a great experience with us.
+- Q: Please send me an email address I can contact regarding a recent fl",4,2,4,Grounding: Reply shares 14 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply contains polite/empathetic language.,heuristic
+3,888768,Urge you to consider starting an ORD (Chicago) to BOM (Mumbai direct flight! Should be a breeze filling it up!,There's nothing like that #WindyCity view! Thanks for letting us take a peek out of your window.,"- Q: Great view of Chicago on our approach to ORD. Thanks for a great flight from Austin.
+  A: There's nothing like that #WindyCity view! Thanks for letting us take a peek out of your window.
+- Q: flight 1233 DFW to ORD - first class was flawless. Thank you👌🏼
+  A: It was our pleasure to have you fly",4,2,4,Grounding: Reply shares 14 4-grams with retrieved context. | Correctness: Reply may not directly address the customer's concern. | Tone: Reply contains polite/empathetic language.,heuristic
+4,201818,Nonsense,We hear your frustration and very much appreciate your loyalty. Our crewmembers can help find you space near your seat if you ask them.,"- Q: What a completely bullshit answer that ignores the actual issue.
+  A: We hear your frustration and very much appreciate your loyalty. Our crewmembers can help find you space near your seat if you ask them.
+- Q: What the entire fuck
+  A: We're actively working on this and expect to avoid cancell",4,4,4,Grounding: Reply shares 21 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+5,2713483,KDVPSX,Your loyalty is greatly appreciated and we're so thankful to have Andy as a part of our team. Thanks for the kudos. #AATeam,"- Q: after 2 years of flying with yall... i have my best experience yet! Thanks to Andy ""sir"" on my flight from kdfw to kmaf! Flight 5998
+  A: Your loyalty is greatly appreciated and we're so thankful to have Andy as a part of our team. Thanks for the kudos. #AATeam
+- Q: gate couldn’t address and se",4,2,4,Grounding: Reply shares 20 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply contains polite/empathetic language.,heuristic
+6,2233579,"8 more flights before #PlatinumPro status. That’s 90 flights this year on alone, kids. Bring on those First Class upgrades! #frequentflyer","BTW, 21K is also now available which is the seat next to the aisle 21J which you already have. Let us know which would work best for you.","- Q: PLUS, we had Executive platinum upgrades put in to hopefully move to first class! Now we can't even sit together on a 15 hour flight!☹
+  A: BTW, 21K is also now available which is the seat next to the aisle 21J which you already have. Let us know which would work best for you.
+- Q: I am 202 mil",4,2,2,Grounding: Reply shares 25 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+7,1756714,How is it that wifi is only $8/day and works roughly 10x better than the wifi on that costs $33/flight??,We always want you to be able to stay #connected. Please reach out to our friends for more info.,"- Q: the wifi is terrible. 4th flight in 3 weeks where it barely works. Why even offer it? I don't even bother w/ flight pass
+  A: We always want you to be able to stay #connected. Please reach out to our friends for more info.
+- Q: Asking customers to pay $40 for inflight WiFi, on a domestic US fli",4,2,4,Grounding: Reply shares 16 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply contains polite/empathetic language.,heuristic
+8,1694651,flight 1699. Great job by flight attendant Emely,We always want you to be comfy. Please speak with our flight crew for a possible seat change.,"- Q: flight 1695. So much for acoomodation when xtra seats are available
+  A: We always want you to be comfy. Please speak with our flight crew for a possible seat change.
+- Q: Amazing longevity and service. American Airlines​ ( ) should be very proud. World's most senior flight attendant celebrates",4,4,4,Grounding: Reply shares 15 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+9,2305360,Thanks! I checked in online. It didn't have an option to select how many bags I wanted to check in. Do I just go to the counter and request a bag check in?,We'll share this with our team for internal review. We have a great link you can use to check on your bag.,"- Q: You can tell the gate agent at C21 at DFW she needs to learn how to count bags
+  A: We'll share this with our team for internal review. We have a great link you can use to check on your bag.
+- Q: How do I get my checked bag fee returned?
+  A: Hi there! The checked bag charge is nonrefundable.
+-",4,4,4,Grounding: Reply shares 19 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+10,2970862,Hey should I be worried about my trip to New York in a few weeks?,We are working diligently to address the issue and expect to avoid cancellations this holiday season,"- Q: I hope I don't have to worry about my flight in December
+  A: We are working diligently to address the issue and expect to avoid cancellations this holiday season
+- Q: By the way , this is Chicago, so saying that the cold weather is causing your plane to break is not reassuring.
+  A: We see you",4,2,2,Grounding: Reply shares 13 4-grams with retrieved context. | Correctness: Reply may not directly address the customer's concern. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+11,2712077,Please Give to (caps) MAXWELL ADRENAL DEFICIENCY MEDFUND @ Go Fund Me Thank you,Miracles do happen! We're going to meet you in DMs to ensure that the kudos goes to the right place.,"- Q: Anyway: Shout out given, praise given. Whatever a company does to reward decent people, please do. I’ve done what I could… do the same. My DM is open if you need to know more. /X
+  A: Miracles do happen! We're going to meet you in DMs to ensure that the kudos goes to the right place.
+- Q: I set",4,2,2,Grounding: Reply shares 17 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+12,1877851,flight 3127 changed 6 times tonight. I would have been better off walking!!,We'd like to get someone to help you in CLT. Are you already at gate E3?,"- Q: changed my flight 6X, I've spent nt on floor at airport,now I can't walk.flight STILL delayed.they DON'T CARE.
+  A: We'd like to get someone to help you in CLT. Are you already at gate E3?
+- Q: Honestly never booking my flights with changed my flights again 🖕🏼
+  A: We're sorry for the schedule ",4,2,2,Grounding: Reply shares 13 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+13,256854,I DM’d my record locator. Been in the Rebooking line at MIA over 2 hours.,We've received your DMs and will respond shortly. Thanks for your patience.,"- Q: Thx. Record locators sent DM.
+  A: We've received your DMs and will respond shortly. Thanks for your patience.
+- Q: You asked for my record locator #
+  A: You've arrived at your destination now, right?
+- Q: I have sent the Record locator over to you. Thank you for looking into this.
+  A: You're",4,2,4,Grounding: Reply shares 9 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply contains polite/empathetic language.,heuristic
+14,480014,Ok will call them. Thank you 😊,Hi there! Our Reservations team can check on flights for you at 800-433-7300.,"- Q: Hi! Can you please give me a phone number to call to check flight status? Thank you!
+  A: Hi there! Our Reservations team can check on flights for you at 800-433-7300.
+- Q: Thanks, but no recent update and courier your rep gave, but couldn't provide a number for, has only out of service public ",4,4,2,Grounding: Reply shares 10 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+15,2123365,So why can’t you let us know a flight is delayed? I could be working rather than standing in crowd at gate!,"We can try to help you, Lauren. We're here to answer questions.","- Q: hey when you delay a flight and announce to go to a gate, actually have someone at the gate to help it's customer service
+  A: We can try to help you, Lauren. We're here to answer questions.
+- Q: Why do you schedule flights if you don't have any flight attendants working? Waiting at gate for th",4,2,2,Grounding: Reply shares 9 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+16,290013,Thanks we wold really appreciate it if that could be done. . We love America air lines,"You should be on your way at 8:25p, and we really appreciate your patience.","- Q: Thanks for the reply now we are on our third plane and waiting 7 hours to leave. This is just awful on #AmericanAirlines
+  A: You should be on your way at 8:25p, and we really appreciate your patience.
+- Q: Thank you american airlines for helping me so quick and taking care of customer, you guy",4,2,4,Grounding: Reply shares 11 4-grams with retrieved context. | Correctness: Reply may not directly address the customer's concern. | Tone: Reply contains polite/empathetic language.,heuristic
+17,1165895,My wife has been trying to get to Newark for 2days. Bham&gt;chicago&gt;charlotte every where she goes her flight is canceled.,Give us a call at 800-882-8880 to check flight options. We'll be glad to see what's available.,"- Q: arrived late and very tired to SLC after the Monday night delays out of Newark. Can’t you guys add some flights?
+  A: Give us a call at 800-882-8880 to check flight options. We'll be glad to see what's available.
+- Q: At #newark Heading back to Charlotte! ✈️
+  A: Ooh, ready for another #AAdvent",4,4,4,Grounding: Reply shares 14 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+18,2295204,Hey you lost 40 people’s luggage and haven’t given us any type of update.,We see that our Baggage Service team have your info and are providing updates as they come in. They'll be sure to reach out to you ASAP.,"- Q: We are checking in for our flight home and guess what?!? Still no bags and your crack team of agents have been able to provide no update. Great job AA, you’re killing this customer service game #Ijustwantmybag
+  A: We see that our Baggage Service team have your info and are providing updates as",4,4,2,Grounding: Reply shares 24 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+19,2605058,"hi, i have a question about your baggage policy and sent it to you through DM",What can we answer for you?,"- Q: I have a question regarding baggage
+  A: What can we answer for you?
+- Q: your baggage policy is THE WORST in the industry. WORST
+  A: What's going on, Steve? How can we help?
+- Q: worst baggage experience I've ever had. Brand new suitcase and my bag is banged up, crushed and damaged. Please ch",4,2,2,Grounding: Reply shares 3 4-grams with retrieved context. | Correctness: Reply may not directly address the customer's concern. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+20,1772044,CHI✈️CLE turn the damn air condition 3058 while we wait man,"We're sorry for the warm plane, Chris. Once we'e airborne, the A/C will kick in and help cool the plane off.","- Q: flight AA869 has no air conditioning...we are dying #thanks
+  A: We're sorry for the warm plane, Chris. Once we'e airborne, the A/C will kick in and help cool the plane off.
+- Q: My flight has no Air Conditioning, im dying up here
+  A: We want you to be comfy. Speak with our flight crew for pos",4,4,4,Grounding: Reply shares 18 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+21,1275158,"Sadly on AA65, a 9+hour flight on an ancient 767 with no outlets at the seats, no individual AC control or TV monitors. #shame","You can stream tons of free entertainment on your device, and we're working to add power at every seat.","- Q: The flight attendant just demonstrated the safety features himself like in the long time days.... because this long flight on has no TV, no power outlet....
+  A: You can stream tons of free entertainment on your device, and we're working to add power at every seat.
+- Q: Really ?! No TVs, on a 5",4,2,2,Grounding: Reply shares 16 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+22,1002998,why should I pay extra for a premium seat when you flight attendants let anyone move into it for free? Just another ripoff.,A refund would be processed if you didn't sit in a comparable seat after the change.,"- Q: I get it sometimes planes change and seating has to change but what happens when you purchase a premium seat! Refund! Bet not!
+  A: A refund would be processed if you didn't sit in a comparable seat after the change.
+- Q: Hey , tell me why your policy is to serve premium seat customers LAST on
+",4,4,2,Grounding: Reply shares 13 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+23,2127763,"Assume that you’d didn’t get the extra 140 characters yet to say... so here’s 10,000 airmiles and gold status to make up for it","Overweight bags require special handling, you're able to split up the weight between 2 bags. Take a look","- Q: You are ridiculous. I have Gold status and you want to charge me additional $100 for bags??? No thanks, maybe I'll use that $$$ for a different airline in the future.
+  A: Overweight bags require special handling, you're able to split up the weight between 2 bags. Take a look
+- Q: still wants $",4,2,2,Grounding: Reply shares 15 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+24,1076531,Yeah awesome towel! Only for flights or can I get one somewhere?,"Yes, if you'd like for us to consider liability, it needs to be inspected in person at the airport within 24 hrs:","- Q: Where can i do that? At the airport?
+  A: Yes, if you'd like for us to consider liability, it needs to be inspected in person at the airport within 24 hrs:
+- Q: I couldn’t pick a sweat for my flight for the past two days. You wont assign me one till 30 mintues before a flight...👎
+  A: We'll tak",4,2,2,Grounding: Reply shares 19 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+25,1130779,what the hell are you doing about the 100s of ppl grounded out of flights from Grand Rapids MI? #FigureItOut #NoExcuses,"That's not a pattern we'd care to keep, Alex. Our goal is to always get you to your destination on time.","- Q: I have spent more hours grounded because of delays than actually flying in the last 24 months with #AAdelays
+  A: That's not a pattern we'd care to keep, Alex. Our goal is to always get you to your destination on time.
+- Q: Bad Flight diverted and later cancelled. It's like they've never done t",4,2,2,Grounding: Reply shares 18 4-grams with retrieved context. | Correctness: Reply may not directly address the customer's concern. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+26,303242,Y’all reply faster when it’s public vs DM... 🤔,"Troy, we don't have an DM's from you. If you follow us, we'll try to send one your way to get started.","- Q: I’ve been DM’ing with no response
+  A: Troy, we don't have an DM's from you. If you follow us, we'll try to send one your way to get started.
+- Q: good morning gang, I sent a DM. No rush.
+  A: We've got your DM, and will reply back in a minute or two.
+- Q: DM'd you
+  A: We have it and will repl",4,2,2,Grounding: Reply shares 19 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+27,1478930,unbelievable...u ban customers for complaints...WOW,Your comment concerns us. Please DM your record locator if you need help.,"- Q: I wrote my first complaint ever today. It was about how much customer service sucks at
+  A: Your comment concerns us. Please DM your record locator if you need help.
+- Q: But what can you do about the terrible customer service.Stuff happens.I get that.But your agents treating customers this way",4,4,4,Grounding: Reply shares 10 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply contains polite/empathetic language.,heuristic
+28,2642311,y'all fuckin up bruh.,"We're here to help. What's going on, Stacey?","- Q: boooooooy the way yall got me fucked up this morning.. Fuuuuck!!!!!
+  A: We're here to help. What's going on, Stacey?
+- Q: Y'all are bad people
+  A: Our offer still stands to assist in DMs, if you'd like.
+- Q: Te contar, you fucked up really bad, really really bad
+  A: Your comment concerns us.",4,2,2,Grounding: Reply shares 5 4-grams with retrieved context. | Correctness: Reply is only partially on-topic. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic
+29,1995612,I fly home toady from my dad's funeral. my boss sent beautiful flowers. Will agents allow extra carry on given circumstances?,"We're unable to check bags through if they're not booked on the same reservation, you'll need to re-check them on the new ticket.","- Q: Yes, but do I HAVE TO? I have another flight at my final destination for work and I want my luggage to arrive at my final destination
+  A: We're unable to check bags through if they're not booked on the same reservation, you'll need to re-check them on the new ticket.
+- Q: Hi what is your polic",4,4,2,Grounding: Reply shares 20 4-grams with retrieved context. | Correctness: Reply contains multiple action-oriented words relevant to the complaint. | Tone: Reply is neutral but lacks explicit empathy signals.,heuristic

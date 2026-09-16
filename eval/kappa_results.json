@@ -1,0 +1,31 @@
+{
+  "n_samples": 30,
+  "cohen_kappa_grounding": 0.0,
+  "cohen_kappa_correctness": 0.0,
+  "cohen_kappa_tone": 0.4595,
+  "cohen_kappa_overall": 0.1975,
+  "interpretation": "Slight agreement -- judge and human are mostly disagreeing.",
+  "disagreement_examples_grounding": [
+    {
+      "row_id": 0,
+      "llm_grounding": 4,
+      "human_grounding": 2,
+      "customer_text": "I put my KTN on my reservation and checked in but no precheck. Can you help please? ORD-EWR today",
+      "generated_reply": "Please give us a call at 800-433-7300, we'll be happy to assist!"
+    },
+    {
+      "row_id": 12,
+      "llm_grounding": 4,
+      "human_grounding": 2,
+      "customer_text": "flight 3127 changed 6 times tonight. I would have been better off walking!!",
+      "generated_reply": "We'd like to get someone to help you in CLT. Are you already at gate E3?"
+    },
+    {
+      "row_id": 14,
+      "llm_grounding": 4,
+      "human_grounding": 2,
+      "customer_text": "Ok will call them. Thank you \ud83d\ude0a",
+      "generated_reply": "Hi there! Our Reservations team can check on flights for you at 800-433-7300."
+    }
+  ]
+}

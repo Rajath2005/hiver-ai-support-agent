@@ -1,0 +1,49 @@
+{
+  "intent_accuracy": 0.465,
+  "intent_macro_f1": 0.41556737532214694,
+  "baseline_majority_intent_accuracy": 0.35,
+  "baseline_majority_intent_macro_f1": 0.06481481481481481,
+  "mean_bleu": 0.021452526414613086,
+  "mean_bertscore_f1": 0.7498673796653748,
+  "baseline_nn_mean_bleu": 0.013547839974602214,
+  "baseline_nn_mean_bertscore_f1": 0.7443783283233643,
+  "escalation_accuracy": 0.98,
+  "escalation_macro_f1": 0.9231950844854071,
+  "escalation_precision_positive": 1.0,
+  "escalation_recall_positive": 0.75,
+  "escalation_f1_positive": 0.8571428571428571,
+  "escalation_n_true_positive": 16,
+  "escalation_n_predicted_positive": 12,
+  "escalation_note": "Positive class (escalate=yes): 16/200 true, 12/200 predicted. Accuracy is misleading on this imbalanced label; use F1_positive.",
+  "judge_human_agreement": {
+    "n_samples": 30,
+    "cohen_kappa_grounding": 0.0,
+    "cohen_kappa_correctness": 0.0,
+    "cohen_kappa_tone": 0.4595,
+    "cohen_kappa_overall": 0.1975,
+    "interpretation": "Slight agreement -- judge and human are mostly disagreeing.",
+    "disagreement_examples_grounding": [
+      {
+        "row_id": 0,
+        "llm_grounding": 4,
+        "human_grounding": 2,
+        "customer_text": "I put my KTN on my reservation and checked in but no precheck. Can you help please? ORD-EWR today",
+        "generated_reply": "Please give us a call at 800-433-7300, we'll be happy to assist!"
+      },
+      {
+        "row_id": 12,
+        "llm_grounding": 4,
+        "human_grounding": 2,
+        "customer_text": "flight 3127 changed 6 times tonight. I would have been better off walking!!",
+        "generated_reply": "We'd like to get someone to help you in CLT. Are you already at gate E3?"
+      },
+      {
+        "row_id": 14,
+        "llm_grounding": 4,
+        "human_grounding": 2,
+        "customer_text": "Ok will call them. Thank you \ud83d\ude0a",
+        "generated_reply": "Hi there! Our Reservations team can check on flights for you at 800-433-7300."
+      }
+    ]
+  }
+}

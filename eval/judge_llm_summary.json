@@ -1,0 +1,9 @@
+{
+  "n_samples": 30,
+  "scorer": "heuristic",
+  "mean_llm_grounding": 4.0,
+  "mean_llm_correctness": 2.8,
+  "mean_llm_tone": 2.9333,
+  "mean_llm_overall": 3.2444,
+  "note": "Human scores in eval/judge_human_scores.csv (blank template: eval/judge_human_blank.csv). Run compute_kappa.py after human scoring."
+}

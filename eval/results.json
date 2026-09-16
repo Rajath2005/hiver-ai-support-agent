@@ -1,0 +1,24 @@
+{
+  "intent_accuracy": 0.53,
+  "intent_macro_f1": 0.51585822069521,
+  "baseline_majority_intent_accuracy": 0.18,
+  "baseline_majority_intent_macro_f1": 0.038135593220338986,
+  "mean_bleu": 0.9978117066259518,
+  "mean_bertscore_f1": 1.0,
+  "baseline_nn_mean_bleu": 0.025069357311309597,
+  "baseline_nn_mean_bertscore_f1": 0.7457273006439209,
+  "escalation_accuracy": 0.96,
+  "escalation_macro_f1": 0.7395833333333333,
+  "judge_eval": {
+    "n_samples": 30,
+    "mean_judge_grounding": 4.0,
+    "mean_judge_correctness": 3.8,
+    "mean_judge_tone": 3.066666666666667,
+    "mean_judge_overall_score": 3.6222222222222222,
+    "mean_human_overall_score": 3.6,
+    "cohen_kappa_grounding": NaN,
+    "cohen_kappa_correctness": 1.0,
+    "cohen_kappa_tone": 0.9333333333333333,
+    "cohen_kappa_overall": 1.0
+  }
+}
